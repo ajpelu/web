@@ -1,0 +1,14 @@
+---
+title: "test"
+description: "Test the blog bla bla bla "
+author:
+  - name: Antonio J. Pérez-Luque
+    url: https://ajperezluque.com
+    orcid: 0000-0002-1747-0469
+date: 10-24-2022
+categories: [Quarto, R, python] # self-defined categories
+citation: 
+  url: https://ajpelu.github.io/web/posts/2022-10-24-quarto-blogs/ 
+image: gatito.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/2022-11-23-test/index.html",
+    "href": "posts/2022-11-23-test/index.html",
+    "title": "test",
+    "section": "",
+    "text": "BibTeX citation:@online{j.pérez-luque2022,\n  author = {Antonio J. Pérez-Luque},\n  editor = {},\n  title = {Test},\n  date = {2022-10-24},\n  url = {https://ajpelu.github.io/web/posts/2022-10-24-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nAntonio J. Pérez-Luque. 2022. “Test.” October 24, 2022. https://ajpelu.github.io/web/posts/2022-10-24-quarto-blogs/."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "web",
@@ -12,5 +19,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "posts",
+    "section": "",
+    "text": "Quarto\n\n\nR\n\n\npython\n\n\n\n\nTest the blog bla bla bla\n\n\n\n\n\n\nOct 24, 2022\n\n\nAntonio J. Pérez-Luque\n\n\n\n\n\n\nNo matching items"
   }
 ]
