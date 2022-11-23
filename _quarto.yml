@@ -9,7 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - posts.qmd
+      - href: posts.qmd
+        text: Blog
+      - href: datasets.qmd
+        text: Datasets
 
 format:
   html:
