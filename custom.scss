@@ -1,2 +1,8 @@
 /*-- scss:defaults --*/
-$blue: #416ba3; // overwrite the default blue color
+$blue: #416ba3 !default;
+
+/*-- scss:rules --*/
+// remove border of the large buttons on the about page
+div.quarto-about-trestles .about-entity .about-link {
+  border: 0;
+}
