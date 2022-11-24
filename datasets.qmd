@@ -61,6 +61,6 @@ I strongly believe in the importance of sharing well documented data allowing th
 ### 2014
 - Pérez-Luque, A.J.; & Bonet, F.J., *Ocurrence dataset: Sinfonevada: Dataset of Floristic diver- sity in Sierra Nevada forests (SE Spain)*, Repository: GBIF. [doi: 10.15468/4gpr7e](https://doi.org/10.15468/4gpr7e)
 
-[{{< ai doi size=2xl color=gray >}}](https://doi.org/10.15468/4gpr7e)
+[{{< ai doi size=2xl color=lightblue >}}](https://doi.org/10.15468/4gpr7e)
 
 

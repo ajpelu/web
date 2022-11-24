@@ -1,0 +1,12 @@
+
+
+/*-- scss:rules --*/
+
+
+
+$bs-link-color: #ffffff;
+
+:root {
+  // RIGHT, will work in all Sass versions.
+  --bs-link-color: #{$bs-link-color};
+}
