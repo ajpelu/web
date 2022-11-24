@@ -1,12 +1,2 @@
-
-
-/*-- scss:rules --*/
-
-
-
-$bs-link-color: #ffffff;
-
-:root {
-  // RIGHT, will work in all Sass versions.
-  --bs-link-color: #{$bs-link-color};
-}
+/*-- scss:defaults --*/
+$blue: #416ba3; // overwrite the default blue color
