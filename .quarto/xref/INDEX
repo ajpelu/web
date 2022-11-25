@@ -19,5 +19,11 @@
   },
   "about/index.qmd": {
     "index.html": "d0acb491"
+  },
+  "scripts/test_data2.qmd": {
+    "test_data2.html": "e91ccd8a"
+  },
+  "scripts/test_data.qmd": {
+    "test_data.html": "b7bc5a54"
   }
 }
