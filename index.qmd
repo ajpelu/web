@@ -1,7 +1,39 @@
 ---
-title: "web"
+title: "Ecoinformatics"
+image: images/yo.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: github
+      url: https://github.com/ajpelu
+    - text: "{{< ai google-scholar size=2x >}}"
+      href: https://scholar.google.es/citations?user=_2VwSg0AAAAJ&hl
+    - text: "{{< ai orcid size=2x >}}"
+      href: https://orcid.org/0000-0002-1747-0469
+    - icon: envelope
+      href: mailto:ajpelu@gmail.com
+    - text: "{{< ai researchgate size=2x >}}"
+      href: https://www.researchgate.net/profile/Antonio_Jesus_Perez_Luque
 ---
 
-This is a Quarto website.
+### hi there!   
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m Antonio J., Ecologist (PhD in Ecology), biologist and Master in Applied Statistics from University of Granada (Spain). The focus of my disertation was the spatio-temporal dynamics of Pyrenean oak forests (*Quercus pyrenaica*) in Mediterranean mountains. 
+
+I like to introduce myself as ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools. I’m one of the co-founders of the [Ecoinformatic Working Group](https://ecoinfaeet.github.io/website/index.html) of the Spanish Terrestrial Ecology Association ([AEET](https://www.aeet.org/)).
+
+
+[About me](about/)
+
+<p class="custom-subtitle">`r fontawesome::fa("satellite", fill = "#416ba3", a11y = "sem")` **Remote Sensing**</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("tree", fill = "#416ba3", a11y = "sem")` **Forest Ecology**</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("earth-americas", fill = "#416ba3", a11y = "sem")` **Global Change Ecology**</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("mountain-sun", fill = "#416ba3", a11y = "sem")` **Mountain Ecosystems**</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("terminal", fill = "#416ba3", a11y = "sem")` **Data Analysis and Ecoinformatics**</p>

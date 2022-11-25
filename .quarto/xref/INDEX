@@ -13,5 +13,11 @@
   },
   "datasets.qmd": {
     "datasets.html": "395c4f94"
+  },
+  "test.qmd": {
+    "test.html": "4b119d0a"
+  },
+  "about/index.qmd": {
+    "index.html": "d0acb491"
   }
 }

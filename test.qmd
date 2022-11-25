@@ -1,0 +1,43 @@
+---
+pagetitle: "Antonio J. Pérez-Luque"
+page-layout: custom
+toc: false
+css: index.css
+socials:
+  twitter: ajpelu
+---
+
+
+:::: {.columns}
+
+::: {.column .col-v-center width="20%"}
+:::
+
+::: {.column .col-v-center width="25%"}
+::: {.portrait}
+![](images/yo.jpg)
+:::
+:::
+
+::: {.column .col-v-center width="35%"}
+
+# Hi, I'm David
+
+::: {.david-intro}
+
+:::{.socials}
+
+{{< orcid 0000-0002-1747-0469 >}}
+:::
+
+I’m the team lead for “Transparent Social Analytics” in the Department for Computational Social Science at [GESIS](https://www.gesis.org/en/institute/departments/computational-social-science) and 
+I develop tools in [R](https://r-project.org/).
+
+
+:::
+:::
+
+::: {.column .col-v-center width="15%"}
+:::
+
+::::

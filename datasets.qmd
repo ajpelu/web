@@ -13,7 +13,7 @@ I strongly believe in the importance of sharing well documented data allowing th
 [doi: 10.23728/b2share.1b31cd1247b54ed383f3499cac398822](https://doi.org/10.23728/b2share.1b31cd1247b54ed383f3499cac398822) [Web-app](https://obsnev.es/apps/adaptamed/metadatos/microclim-enebral/microclimEnebral.html)
 
 
-- Hódar, J.A.; Cayuela, L.; Heras, D.; Pérez-Luque, A.J.; & Torres-Muros, L., *Data from: Expansion of elevational range in a forest pest: Can parasitoids track their hosts?*. doi: 10.6084/m9.figshare.13385333.v1 [{{< ai figshare size=xl color=lightblue >}}](https://doi.org/10.6084/m9.figshare.13385333.v1)
+- Hódar, J.A.; Cayuela, L.; Heras, D.; Pérez-Luque, A.J.; & Torres-Muros, L., *Data from: Expansion of elevational range in a forest pest: Can parasitoids track their hosts?*. doi: 10.6084/m9.figshare.13385333.v1 [{{< ai figshare size=xl color="#416ba3" >}}](https://doi.org/10.6084/m9.figshare.13385333.v1)
 
 
 ### 2020 
@@ -56,11 +56,11 @@ I strongly believe in the importance of sharing well documented data allowing th
 
 - Pérez-Luque, A.J.; Benito, B.M.; Pérez-Pérez, R.; Bonet, F.J. & Zamora, R., *Ocurrence dataset: Dataset of Global Change, altitudinal range shift and colonization of degraded habitats in mediterranean mountains (MIGRAME)*, Repository: GBIF. [doi: 10.15470/orboj4](https://doi.org/10.15470/orboj4)
 
-- Zamora, R.; & Pérez-Luque, A.J., *Ocurrence dataset: Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain)*, Repository: GBIF. [doi: 10.15468/qhqzub](https://doi.org/10.15468/qhqzub)
+2. Zamora, R.; & Pérez-Luque, A.J., *Ocurrence dataset: Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain)*, Repository: GBIF. [doi: 10.15468/qhqzub](https://doi.org/10.15468/qhqzub)
 
 ### 2014
-- Pérez-Luque, A.J.; & Bonet, F.J., *Ocurrence dataset: Sinfonevada: Dataset of Floristic diver- sity in Sierra Nevada forests (SE Spain)*, Repository: GBIF. [doi: 10.15468/4gpr7e](https://doi.org/10.15468/4gpr7e)
+1. Pérez-Luque, A.J.; & Bonet, F.J., *Ocurrence dataset: Sinfonevada: Dataset of Floristic diver- sity in Sierra Nevada forests (SE Spain)*, Repository: GBIF. [doi: 10.15468/4gpr7e](https://doi.org/10.15468/4gpr7e)
 
-[{{< ai doi size=2xl color=lightblue >}}](https://doi.org/10.15468/4gpr7e)
+[{{< ai doi size=2xl color="#416ba3" >}}](https://doi.org/10.15468/4gpr7e)
 
 

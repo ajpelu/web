@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  title: "Antonio J. Pérez-Luque"
   navbar:
     left:
       - href: index.qmd
@@ -16,7 +17,7 @@ website:
 format:
   html:
     theme: 
-      - lumen
+      - yeti
       - custom.scss
     css: 
       - styles.css
