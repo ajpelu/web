@@ -10,63 +10,63 @@ I strongly believe in the importance of sharing well documented data allowing th
 
 ### 2021
               
-- Pérez-Luque, A.J. & Zamora, R., *Hourly soil temperature data from Juniper-thicket ecosystems of Sierra Nevada LTER (Spain)*, 
+- **Pérez-Luque, A.J.** & Zamora, R., *Hourly soil temperature data from Juniper-thicket ecosystems of Sierra Nevada LTER (Spain)*, 
 Repository: DEIMS-LTER; B2SHARE. [doi: 10.23728/b2share.1b31cd1247b54ed383f3499cac398822](https://doi.org/10.23728/b2share.1b31cd1247b54ed383f3499cac398822). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.23728/b2share.1b31cd1247b54ed383f3499cac398822)
               
-- Hódar, J.A.; Cayuela, L.; Heras, D.; Pérez-Luque, A.J.; & Torres-Muros, L., *Data from: Expansion of elevational range in a forest pest: Can parasitoids track their hosts?*, 
+- Hódar, J.A.; Cayuela, L.; Heras, D.; **Pérez-Luque, A.J.**; & Torres-Muros, L., *Data from: Expansion of elevational range in a forest pest: Can parasitoids track their hosts?*, 
 Repository: FIGSHARE. [doi: 10.6084/m9.figshare.13385333.v1](https://doi.org/10.6084/m9.figshare.13385333.v1). [{{< ai figshare size=xl color="#416ba3" >}}](https://doi.org/10.6084/m9.figshare.13385333.v1)
 
 ### 2020
               
-- Pérez-Luque, A.J.; Benito, B.M.; Bonet, F.J.; Zamora, R., *Data from: Ecological diversity within Rear-Edge: A Case Study from Mediterranean Quercus pyrenaica Willd.*, 
+- **Pérez-Luque, A.J.**; Benito, B.M.; Bonet, F.J.; Zamora, R., *Data from: Ecological diversity within Rear-Edge: A Case Study from Mediterranean Quercus pyrenaica Willd.*, 
 Repository: FIGSHARE. [doi: 10.6084/m9.figshare.13382969.v1](https://doi.org/10.6084/m9.figshare.13382969.v1). [{{< ai figshare size=xl color="#416ba3" >}}](https://doi.org/10.6084/m9.figshare.13382969.v1)
               
-- Pérez-Luque, A.J.; Zamora, R. & Barea-Azcón, J.M., *Data of seedling emergence and seedling survival of Mediterranean high mountain scrublands (Juniperus communis and Berberis hispanica) in Sierra Nevada (Spain). 2017-2020*, 
+- **Pérez-Luque, A.J.**; Zamora, R. & Barea-Azcón, J.M., *Data of seedling emergence and seedling survival of Mediterranean high mountain scrublands (Juniperus communis and Berberis hispanica) in Sierra Nevada (Spain). 2017-2020*, 
 Repository: DEIMS-LTER; B2SHARE. [doi: 10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb](https://doi.org/10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb)
               
-- Pérez-Luque, A.J.; Gea-Izquierdo, G, & Zamora, R., *Resilience to drought of relict Mediter- ranean Quercus pyrenaica populations in the southern Iberian (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Resilience to drought of relict Mediter- ranean Quercus pyrenaica populations in the southern Iberian (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922054](https://doi.org/10.1594/PANGAEA.922054). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922054)
               
-- Pérez-Luque, A.J.; Gea-Izquierdo, G, & Zamora, R., *Enhanced Vegetation Index covering Quercus pyrenaica forests in Sierra Nevada (southern Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Enhanced Vegetation Index covering Quercus pyrenaica forests in Sierra Nevada (southern Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922052](https://doi.org/10.1594/PANGAEA.922052). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922052)
               
-- Pérez-Luque, A.J.; Gea-Izquierdo, G, & Zamora, R., *Tree-ring measurements of Quercus pyrenaica (focal trees) from 1899 to 2016 (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Tree-ring measurements of Quercus pyrenaica (focal trees) from 1899 to 2016 (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922053](https://doi.org/10.1594/PANGAEA.922053). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922053)
               
-- Pérez-Luque, A.J.; Gea-Izquierdo, G, & Zamora, R., *Species, total height, diameter at breast height of neighboring living trees and distance and azimuth with respect to Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Species, total height, diameter at breast height of neighboring living trees and distance and azimuth with respect to Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922050](https://doi.org/10.1594/PANGAEA.922050). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922050)
               
-- Pérez-Luque, A.J.; Gea-Izquierdo, G, & Zamora, R., *Total height, diameter at breast height and tree ring code of Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Total height, diameter at breast height and tree ring code of Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922049](https://doi.org/10.1594/PANGAEA.922049). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922049)
               
-- Cazorla, B.P.; Cabello, J; Reyes, A; Guirado, E; Peñas, J.; Pérez-Luque, A.J. & Alcaraz- Segura, D., *Ecosystem functioning and functional diversity of Sierra Nevada (SE Spain), Version 2. University of Almería and Granada*, 
+- Cazorla, B.P.; Cabello, J; Reyes, A; Guirado, E; Peñas, J.; **Pérez-Luque, A.J.** & Alcaraz- Segura, D., *Ecosystem functioning and functional diversity of Sierra Nevada (SE Spain), Version 2. University of Almería and Granada*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.924792](https://doi.org/10.1594/PANGAEA.924792). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.924792)
 
 ### 2019
               
-- Pérez-Luque, A.J.; Bonet-García, F.J. & Zamora, R, *Map of Ecosystems Types in Sierra Nevada mountain (southern Spain)*, 
+- **Pérez-Luque, A.J.**; Bonet-García, F.J. & Zamora, R, *Map of Ecosystems Types in Sierra Nevada mountain (southern Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.910176](https://doi.org/10.1594/PANGAEA.910176). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.910176)
 
 ### 2018
               
-- Ros-Canderia, A.; Pérez-Luque, A.J.; Suárez-Muñoz, M.; Bonet-García, F.J.; & Hódar, J.A., *Ocurrence dataset: Dataset of occurrence and incidence of pine processionary moth in Andalusia, South Spain.*, 
+- Ros-Canderia, A.; **Pérez-Luque, A.J.**; Suárez-Muñoz, M.; Bonet-García, F.J.; & Hódar, J.A., *Ocurrence dataset: Dataset of occurrence and incidence of pine processionary moth in Andalusia, South Spain.*, 
 Repository: GBIF. [doi: 10.15470/s1mxjb](https://doi.org/10.15470/s1mxjb). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.15470/s1mxjb)
 
 ### 2016
               
-- Barea-Azcón, J.M.; Pérez-Luque, A.J.; & Bonet, F.J., *Ocurrence dataset: Dataset of Passer- ine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain)*, 
+- Barea-Azcón, J.M.; **Pérez-Luque, A.J.**; & Bonet, F.J., *Ocurrence dataset: Dataset of Passer- ine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain)*, 
 Repository: GBIF. [doi: 10.15468/ow9noo](https://doi.org/10.15468/ow9noo). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.15468/ow9noo)
 
 ### 2015
               
-- Pérez-Luque, A.J.; Benito, B.M.; Pérez-Pérez, R.; Bonet, F.J. & Zamora, R., *Ocurrence dataset: Dataset of Global Change, altitudinal range shift and colonization of degraded habitats in mediterranean mountains (MIGRAME)*, 
+- **Pérez-Luque, A.J.**; Benito, B.M.; Pérez-Pérez, R.; Bonet, F.J. & Zamora, R., *Ocurrence dataset: Dataset of Global Change, altitudinal range shift and colonization of degraded habitats in mediterranean mountains (MIGRAME)*, 
 Repository: GBIF. [doi: 10.15470/orboj4](https://doi.org/10.15470/orboj4). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.15470/orboj4)
               
-- Zamora, R.; & Pérez-Luque, A.J., *Ocurrence dataset: Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain)*, 
+- Zamora, R.; & **Pérez-Luque, A.J.**, *Ocurrence dataset: Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain)*, 
 Repository: GBIF. [doi: 10.15468/qhqzub](https://doi.org/10.15468/qhqzub). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.15468/qhqzub)
 
 ### 2014
               
-- Pérez-Luque, A.J.; & Bonet, F.J., *Ocurrence dataset: Sinfonevada: Dataset of Floristic diver- sity in Sierra Nevada forests (SE Spain)*, 
+- **Pérez-Luque, A.J.**; & Bonet, F.J., *Ocurrence dataset: Sinfonevada: Dataset of Floristic diver- sity in Sierra Nevada forests (SE Spain)*, 
 Repository: GBIF. [doi: 10.15468/4gpr7e](https://doi.org/10.15468/4gpr7e). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.15468/4gpr7e)
 

@@ -25,5 +25,17 @@
   },
   "scripts/test_data.qmd": {
     "test_data.html": "b7bc5a54"
+  },
+  "projects/sumhal/index.qmd": {
+    "index.html": "4e8381e3"
+  },
+  "projects.qmd": {
+    "projects.html": "618db866"
+  },
+  "projects/pyriclab/index.qmd": {
+    "index.html": "afc11d5e"
+  },
+  "projects/adaptamed/index.qmd": {
+    "index.html": "68ea562b"
   }
 }

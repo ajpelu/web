@@ -4,5 +4,13 @@
     "items": [
       "/posts/2022-11-23-test/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/adaptamed/index.html",
+      "/projects/pyriclab/index.html",
+      "/projects/sumhal/index.html"
+    ]
   }
 ]

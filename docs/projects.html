@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Antonio J. Pérez-Luque - posts</title>
+<title>Antonio J. Pérez-Luque - projects</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -118,10 +118,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./about.html">About</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html">Projects</a>
+    <a class="nav-link active" href="./projects.html" aria-current="page">Projects</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page">Blog</a>
+    <a class="nav-link" href="./posts.html">Blog</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./datasets.html">Datasets</a>
@@ -138,13 +138,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Adaptive Management">Adaptive Management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Biodiversity">Biodiversity <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ecosystem Services">Ecosystem Services <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Finished">Finished <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Global Change">Global Change <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mediterranean Ecosystems">Mediterranean Ecosystems <span class="quarto-category-count">(1)</span></div><div class="category" data-category="fire">fire <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">posts</h1>
+<h1 class="title">projects</h1>
 </div>
 
 
@@ -162,48 +162,100 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Quarto,R,python" data-listing-date-sort="1669158000000" data-listing-file-modified-sort="1669159887505" data-listing-reading-time-sort="0.005">
-<div class="thumbnail">
-<p><a href="./posts/2022-11-23-test/index.html"> <img src="./posts/2022-11-23-test/gatito.jpeg" class="thumnail-image"> </a></p>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Ecosystem Services,Mediterranean Ecosystems,Global Change,Adaptive Management,Finished" data-listing-file-modified-sort="1670533663654" data-listing-reading-time-sort="1">
+<a href="./projects/adaptamed/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/adaptamed/cartel_adaptamed.jpg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ADAPTAMED
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Ecosystem Services'); return false;">
+Ecosystem Services
 </div>
-<div class="body">
-<a href="./posts/2022-11-23-test/index.html">
-<h3 class="no-anchor listing-title">
-test
-</h3>
-<div class="listing-subtitle">
+<div class="listing-category" onclick="window.quartoListingCategory('Mediterranean Ecosystems'); return false;">
+Mediterranean Ecosystems
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Global Change'); return false;">
+Global Change
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Adaptive Management'); return false;">
+Adaptive Management
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Finished'); return false;">
+Finished
+</div>
+</div>
+<div class="card-text listing-description">
+LIFE-ADAPTAMED. Protection of key ecosystem services of Medieterranean socioecosystems
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
 </div>
+</div>
+</div>
+</div>
 </a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="fire" data-listing-file-modified-sort="1670526755807" data-listing-reading-time-sort="0.015">
+<a href="./projects/pyriclab/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/pyriclab/gatito.jpeg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+pyriclab
+</h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
-python
+<div class="listing-category" onclick="window.quartoListingCategory('fire'); return false;">
+fire
 </div>
 </div>
-<a href="./posts/2022-11-23-test/index.html">
-<div class="listing-description">
-<p>Test the blog bla bla bla</p>
+<div class="card-text listing-description">
+the project
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/2022-11-23-test/index.html">
-<div class="listing-date">
-Nov 23, 2022
-</div>
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
-Antonio J. Pérez-Luque
+
+</div>
+</div>
+</div>
 </div>
 </a>
 </div>
+<div class="g-col-1" data-index="2" data-categories="Biodiversity" data-listing-file-modified-sort="1670526657930" data-listing-reading-time-sort="0.015">
+<a href="./projects/sumhal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./projects/sumhal/gatito.jpeg" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+sumhal
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Biodiversity'); return false;">
+Biodiversity
+</div>
+</div>
+<div class="card-text listing-description">
+the project
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">

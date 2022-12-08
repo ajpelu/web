@@ -1,0 +1,23 @@
+---
+title: "ADAPTAMED"
+description: "LIFE-ADAPTAMED. Protection of key ecosystem services of Medieterranean socioecosystems" 
+categories:
+    - Ecosystem Services
+    - Mediterranean Ecosystems
+    - Global Change
+    - Adaptive Management
+    - Finished
+image: cartel_adaptamed.jpg
+title-block-style: none
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+priority: 1
+---
+
+The [LIFE-ADAPTAMED](https://www.lifeadaptamed.eu/?lang=en) project aims to promote adaptation to climate change in Mediterranean terrestrial ecosystems located along an environmental gradient in Andalusia: Sierra Nevada, Cabo de Gata and Doñana. Its objectives are to effectively integrate strategies aimed at global change adaptation and mitigation into ecosystem management. The project focuses on developing, implementing, monitoring, evaluating and disseminating adaptive management actions, focused on ensuring the provision of key ecosystem services (*e.g.* soil retention; pasture production; pollination; forest fire prevention). For this purpose, the project actions aim to increase the resilience of forest ecosystems to climate change and other anthropogenic pressures. 
+
+The project represents a platform for interdisciplinary collaboration that aims to streamline the transfer and application of scientific knowledge and to develop new forms of environmental diagnosis and management. The added value of this collaboration allows us to develop actions aimed at promoting the natural mechanisms of recovery and maintenance of ecosystems, exploring a wide range of options for adaptation.
+
+This project aims to mitigate the negative effect of climate change on key ecosystem services provided by ecosystems of three Mediterranean natural protected areas Sierra Nevada, Doñana and Cabo de Gata. 
+
+**Duration**: July 2015 - December 2021 <br>
+**PI**: Professor [Regino Zamora](http://www.reginozamora.es/) ([University of Granada](https://www.ugr.es/))
