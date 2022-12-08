@@ -21,9 +21,9 @@ about:
 
 ### hi there!   
 
-I’m Antonio J., Ecologist (PhD in Ecology), biologist and Master in Applied Statistics from University of Granada (Spain). The focus of my disertation was the spatio-temporal dynamics of Pyrenean oak forests (*Quercus pyrenaica*) in Mediterranean mountains. 
+I'm Antonio J., Ecologist (PhD in Ecology), biologist and Master in Applied Statistics from University of Granada (Spain). The focus of my disertation was the spatio-temporal dynamics of Pyrenean oak forests (*Quercus pyrenaica*) in Mediterranean mountains. 
 
-I like to introduce myself as ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools. I’m one of the co-founders of the [Ecoinformatic Working Group](https://ecoinfaeet.github.io/website/index.html) of the Spanish Terrestrial Ecology Association ([AEET](https://www.aeet.org/)).
+I like to introduce myself as ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools. I'm one of the co-founders of the [Ecoinformatic Working Group](https://ecoinfaeet.github.io/website/index.html) of the Spanish Terrestrial Ecology Association ([AEET](https://www.aeet.org/)).
 
 
 [About me](about/)

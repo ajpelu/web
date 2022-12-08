@@ -7,14 +7,14 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "{{< fa house-user >}} Home"
       - about.qmd
       - href: projects.qmd
-        text: Projects
+        text: "{{< fa chart-line >}} Projects"
       - href: posts.qmd
-        text: Blog
+        text: "{{< fa feather-pointed >}} Blog"
       - href: datasets.qmd
-        text: Datasets
+        text: "{{< fa table >}} Datasets"
 
 format:
   html:
