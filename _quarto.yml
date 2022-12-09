@@ -13,6 +13,8 @@ website:
         text: "{{< fa chart-line >}} Projects"
       - href: posts.qmd
         text: "{{< fa feather-pointed >}} Blog"
+      - href: publications.qmd
+        text: Publications
       - href: datasets.qmd
         text: "{{< fa table >}} Datasets"
 

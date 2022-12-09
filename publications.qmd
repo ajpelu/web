@@ -1,0 +1,62 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+### 2022
+Barea-Azcón, J. M., **Pérez-Luque, A. J.**, Olivares, F. J., Guerrero, M., Galiana-García, M., Chaves, M. D., Olvera, M., & Munguira, M. L. (2022). Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, icad.12617. <https://doi.org/10.1111/icad.12617>
+
+**Pérez-Luque, A. J.**, Ramos-Font, M. E., Barbieri Tognetti, M. J., Tarragona Pérez, C., Calvo Renta, G., & Robles Cruz, A. B. (2022). Vegetation cover estimation in semi-arid shrublands after prescribed burning: Field-ground and drone image comparison. *Drones*, *6*(11), 370. <https://doi.org/10.3390/drones6110370>
+
+### 2021
+**Pérez-Luque, A. J.**, Gea-Izquierdo, G., & Zamora, R. (2021). Land-use legacies and climate change as a double challenge to oak forest resilience: Mismatches of geographical and ecological rear edges. *Ecosystems*, *24*(4), 755–773. <https://doi.org/10.1007/s10021-020-00547-y>
+
+**Pérez-Luque, A. J.**, Bonet-García, F. J., & Zamora, R. (2021). Colonization pattern of abandoned croplands by Quercus pyrenaica in a Mediterranean mountain region. *Forests*, *12*(11), 1584.
+<https://doi.org/10.3390/f12111584>
+
+**Pérez-Luque, A. J.**, Benito, B. M., Bonet-García, F. J., & Zamora, R. (2021). Ecological Diversity within Rear-Edge: A Case Study from Mediterranean Quercus pyrenaica Willd. *Forests*, *12*(1), 10. <https://doi.org/10.3390/f12010010>
+
+Hódar, J. A., Cayuela, L., Heras, D., **Pérez-Luque, A. J.**, & Torres-Muros, L. (2021). Expansion of elevational range in a forest pest: Can parasitoids track their hosts? *Ecosphere*, *12*(4), e03476. <https://doi.org/10.1002/ecs2.3476> 
+
+**Pérez-Luque, A. J.**, Peinó-Calero, E., Rodríguez-Brito, A., Esteban-Parra, M. J., Merino-Ceballos, M., Guerrero-Alonso, P. D., Moreno-Llorca, R., Ros-Candeira, A., & Zamora, R. (2021). ClimaNevada: Base de datos climática del Observatorio de Cambio Global de Sierra Nevada. *Ecosistemas*, *30*(1), 2155. <https://doi.org/10.7818/ECOS.2155>
+
+Cazorla, B. P., Cabello, J., Reyes, A., Guirado, E., Peñas, J., **Pérez-Luque, A. J.**, & Alcaraz-Segura, D. (2021). A remote sensing-based dataset to characterize the ecosystem functioning and functional diversity in the Biosphere Reserve of Sierra Nevada (SE Spain). *Earth System Science Data Discussions*, *2021*, 1–26. <https://doi.org/10.5194/essd-2021-223>
+
+Zamora, R., **Pérez-Luque, A. J.**, Guerrero-Alonso, P. D., Moreno-Llorca, R. A., Merino-Ceballos, M., & Ros-Candeira, A. (2021). Uniendo macro y microclima en paisajes de montaña: Una aproximación conceptual e instrumental. *Ecosistemas*, *30*(1), 2166. <https://doi.org/10.7818/ECOS.2166>
+
+### 2020 
+Granados, J. E., Ros-Candeira, A., **Pérez-Luque, A. J.**, Moreno-Llorca, R., Cano-Manuel, F. J., Fandos, P., Soriguer, R. C., Cerrato, J. E., Jiménez, J. M. P., Ramos, B., & Zamora, R. (2020). Long-term monitoring of the Iberian ibex population in the Sierra Nevada of the southeast Iberian Peninsula. *Scientific Data*, *7*(1), 203.
+<https://doi.org/10.1038/s41597-020-0544-1>
+
+### 2019 
+**Pérez-Luque, A. J.**, & Ros-Candeira, A. (2019). Compartiendo datos en Ecología: cómo añadir más valor a los datos. *Ecosistemas*, *28*(3), 150–159. <https://doi.org/10.7818/ECOS.1838>
+
+Ros-Candeira, A., **Pérez-Luque, A. J.**, Suárez-Muñoz, M., Bonet-García, F. J., Hódar, J. A., Giménez de Azcárate, F., & Ortega-Díaz, E. (2019). Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain. *ZooKeys*, *852*, 125–136. <https://doi.org/10.3897/zookeys.852.28567>
+
+### 2016 
+Malone, S. L., Tulbure, M. G., **Pérez-Luque, A. J.**, Assal, T. J., Bremer, L. L., Drucker, D. P., Hillis, V., Varela, S., & Goulden, M. L. (2016). Drought resistance across California ecosystems: Evaluating changes in carbon dynamics using satellite imagery. *Ecosphere*, *7*(11), e01561. <https://doi.org/10.1002/ecs2.1561>
+
+**Pérez-Luque, A. J.**, Bonet, F. J., Zamora, R., Barea-Azcón, J. M., Aspizua, R., & Sánchez-Gutiérrez, F. J. (2016). Señales del cambio global en el sitio LTER-Sierra Nevada. *Ecosistemas*, *25*(1), 65–71. <https://doi.org/10.7818/ECOS.2016.25-1.08>
+
+**Pérez-Luque, A. J.**, Barea-Azcón, J. M., Álvarez-Ruiz, L., Bonet-García, F. J., & Zamora, R. (2016). Dataset of Passerine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain). *ZooKeys*, *552*, 137–154. <https://doi.org/10.3897/zookeys.552.6934>
+
+Rodríguez-Sanchez, F., **Pérez-Luque, A. J.**, Bartomeus, I., & Varela, S. (2016). Ciencia reproducible: qué, por qué, cómo? *Ecosistemas*, *25*(2), 83–92. <https://doi.org/10.7818/ECOS.2016.25-2.11>
+
+### 2015
+**Pérez-Luque, A. J.**, Pérez-Pérez, R., Bonet-García, F. J., & Magaña, P. J. (2015). An ontological system based on MODIS images to assess ecosystem functioning of Natura 2000 habitats: A case study for Quercus pyrenaica forests. *International Journal of Applied Earth Observation and Geoinformation*, *37*, 142–151. <https://doi.org/10.1016/j.jag.2014.09.003>
+
+**Pérez-Luque, A. J.**, Zamora, R., Bonet, F. J., & Pérez-Pérez, R. (2015). Dataset of MIGRAME project (global change, altitudinal range shift and colonization of degraded habitats in Mediterranean mountains). *PhytoKeys*, *56*, 61–81. <https://doi.org/10.3897/phytokeys.56.5482>
+
+Hódar, J. A., Torres-Muros, L., Zamora, R., **Pérez-Luque, A. J.**, & Senhadji, K. (2015). No evidence of induced defence after defoliation in three pine species against an expanding pest, the pine processionary moth. *Forest Ecology and Management*, *356*, 166–172. <https://doi.org/10.1016/j.foreco.2015.07.022>
+
+Bonet-García, F. J., **Pérez-Luque, A. J.**, Moreno-Llorca, R. A., Pérez-Pérez, R., Puerta-Piñero, C., & Zamora, R. (2015). Protected areas as elicitors of human well-being in a developed region: A new synthetic (socioeconomic) approach. *Biological Conservation*, *187*, 221–229. <https://doi.org/10.1016/j.biocon.2015.04.027>
+
+**Pérez-Luque, A. J.**, Sánchez-Rojas, C. P., Zamora, R., Pérez-Pérez, R., & Bonet, F. J. (2015). Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain). *PhytoKeys*, *46*, 89–107. <https://doi.org/10.3897/phytokeys.46.9116>
+
+### 2014
+**Pérez-Luque, A. J.**, Bonet, F. J., Pérez-Pérez, R., Aspizua, R., Lorite, J., & Zamora, R. (2014). Sinfonevada: Dataset of floristic diversity in Sierra Nevada forests (SE Spain). *PhytoKeys*, *35*, 1–15. <https://doi.org/10.3897/phytokeys.35.6363>
+
+### 2013
+Bonet-García, F. J., Pérez-Pérez, R., Benito, B. M., **Pérez-Luque, A. J.**, & Zamora, R. J. (2013). Documentación de modelos y flujos de trabajo: El siguiente reto en el manejo de la información ecológica. *Ecosistemas*, *22*(3), 37–45. <https://doi.org/10.7818/ECOS.2013.22-3.06>
+
+Navarro-González, I., **Pérez-Luque, A. J.**, Bonet, F. J., & Zamora, R. (2013). The weight of the past: Land-use legacies and recolonization of pine plantations by oak trees. *Ecological Applications*, *23*(6), 1267–1276. <https://doi.org/10.1890/12-0459.1>
