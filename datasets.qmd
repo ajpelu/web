@@ -24,19 +24,19 @@ Repository: FIGSHARE. [doi: 10.6084/m9.figshare.13382969.v1](https://doi.org/10.
 - **Pérez-Luque, A.J.**; Zamora, R. & Barea-Azcón, J.M., *Data of seedling emergence and seedling survival of Mediterranean high mountain scrublands (Juniperus communis and Berberis hispanica) in Sierra Nevada (Spain). 2017-2020*, 
 Repository: DEIMS-LTER; B2SHARE. [doi: 10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb](https://doi.org/10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb)
               
-- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Resilience to drought of relict Mediter- ranean Quercus pyrenaica populations in the southern Iberian (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G &Zamora, R., *Resilience to drought of relict Mediter- ranean Quercus pyrenaica populations in the southern Iberian (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922054](https://doi.org/10.1594/PANGAEA.922054). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922054)
               
-- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Enhanced Vegetation Index covering Quercus pyrenaica forests in Sierra Nevada (southern Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G &Zamora, R., *Enhanced Vegetation Index covering Quercus pyrenaica forests in Sierra Nevada (southern Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922052](https://doi.org/10.1594/PANGAEA.922052). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922052)
               
-- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Tree-ring measurements of Quercus pyrenaica (focal trees) from 1899 to 2016 (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G &Zamora, R., *Tree-ring measurements of Quercus pyrenaica (focal trees) from 1899 to 2016 (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922053](https://doi.org/10.1594/PANGAEA.922053). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922053)
               
-- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Species, total height, diameter at breast height of neighboring living trees and distance and azimuth with respect to Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G &Zamora, R., *Species, total height, diameter at breast height of neighboring living trees and distance and azimuth with respect to Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922050](https://doi.org/10.1594/PANGAEA.922050). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922050)
               
-- **Pérez-Luque, A.J.**; Gea-Izquierdo, G, & Zamora, R., *Total height, diameter at breast height and tree ring code of Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
+- **Pérez-Luque, A.J.**; Gea-Izquierdo, G &Zamora, R., *Total height, diameter at breast height and tree ring code of Quercus pyrenaica (focal trees) (Sierra Nevada, Spain)*, 
 Repository: PANGAEA. [doi: 10.1594/PANGAEA.922049](https://doi.org/10.1594/PANGAEA.922049). [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1594/PANGAEA.922049)
               
 - Cazorla, B.P.; Cabello, J; Reyes, A; Guirado, E; Peñas, J.; **Pérez-Luque, A.J.** & Alcaraz- Segura, D., *Ecosystem functioning and functional diversity of Sierra Nevada (SE Spain), Version 2. University of Almería and Granada*, 
