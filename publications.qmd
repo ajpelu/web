@@ -64,47 +64,100 @@ Navarro-González, I., **Pérez-Luque, A.J.**, Bonet-García, F.J. & Zamora, R. 
 ## **Books and Chapters** 
 ### **Books**
 ##### **2022**  
-Zamora, R. Barea-Azcón, J.M., **Pérez-Luque, A.J.**, García, D., Aspizua, R., Cano-Manuel, F.J. Los enebrales de la alta montaña de Sierra Nevada: conservación y restauración. Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Junta de Andalucía.. Granada (Spain). 89 pp. DL: GR 573-2022. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/73929).
+Zamora, R. Barea-Azcón, J.M., **Pérez-Luque, A.J.**, García, D., Aspizua, R., Cano-Manuel, F.J. *Los enebrales de la alta montaña de Sierra Nevada: conservación y restauración*. Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Junta de Andalucía.. Granada (Spain). 89 pp. DL: GR 573-2022. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/73929)
 
 ##### **2021**
-**Pérez-Luque, A.J.**; Aspizua, R., Barea-Azcón, J.M., Cano-Manuel, F.J., Zamora, R. Manual de gestión de robledales de Quercus pyrenaica en un contexto de cambio global. Valoración de servicios ecosistémicos.. Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Junta de Andalucía.. Granada (Spain). 112 pp. 
-ISBN: 978-84-8474-305-7. DL: SE 602-2021. 
+**Pérez-Luque, A.J.**; Aspizua, R., Barea-Azcón, J.M., Cano-Manuel, F.J., Zamora, R. *Manual de gestión de robledales de* Quercus pyrenaica *en un contexto de cambio global*. Valoración de servicios ecosistémicos. Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Junta de Andalucía.. Granada (Spain). 112 pp. 
+ISBN: 978-84-8474-305-7. 
 
 ##### **2016** 
-Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 978-84-338-5960-0. DL: GR 1122-2016. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54682)
+Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. *Global change impacts in Sierra Nevada: challenges for conservation*. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 978-84-338-5960-0. DL: GR 1122-2016. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54682)
 
 ##### **2015**  
-Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 9788433858146. DL: GR 1308-2015. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54646)
+Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. *La huella del cambio global en Sierra Nevada: retos para la conservación*. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 9788433858146. DL: GR 1308-2015. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54646)
 
 ##### **2014**  
-Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J.,**Pérez-Luque, A.J.**; Zamora, R. Sierra Nevada Global-Change Observatory. Monitoring methodologies. Consejería de Medio Ambiente, Junta de Andalucía. Sevilla (Spain). 112 pp. ISBN: 9788492807871. DL: SE 152-2014. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54684)
+Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J., **Pérez-Luque, A.J.**, Zamora, R. *Sierra Nevada Global-Change Observatory. Monitoring methodologies*. Consejería de Medio Ambiente, Junta de Andalucía. Sevilla (Spain). 112 pp. ISBN: 9788492807871. DL: SE 152-2014. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54684)
 
 ##### **2012**  
-Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J., **Pérez-Luque, A.J.**, Zamora, R. Observatorio de Cambio Global de Sierra Nevada: metodologías de seguimiento. Consejería de Medio Ambiente, Junta de Andalucía. Granada (Spain). 112 pp. ISBN: 9788492807789. DL: GR 790-2012. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54683)
+Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J., **Pérez-Luque, A.J.**, Zamora, R. *Observatorio de Cambio Global de Sierra Nevada: metodologías de seguimiento*. Consejería de Medio Ambiente, Junta de Andalucía. Granada (Spain). 112 pp. ISBN: 9788492807789. DL: GR 790-2012. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54683)
 
 ##### **2010**  
-Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. Sierra Nevada Global Change Observatory. Structure and Basic Data. Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. DL: GR 4643-2010. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54686)
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. *Sierra Nevada Global Change Observatory. Structure and basic data*. Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. DL: GR 4643-2010. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54686)
 
-Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. Observatorio de cambio global en Sierra Nevada. Estructura y contenidos básicos. Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54685)
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. *Observatorio de cambio global en Sierra Nevada. Estructura y contenidos básicos.* Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54685)
 
 ##### **2005**  
-Gómez, J. Moreno, B. **Pérez-Luque, A.J.**, Castro, M. Pulido, E. Recursos naturales de Córdoba 1. Setas. Diputación de Córdoba. Córdoba (Spain). 128 pp. ISBN: 9788481541083.
+Gómez, J. Moreno, B. **Pérez-Luque, A.J.**, Castro, M. Pulido, E. *Recursos naturales de Córdoba 1. Setas.* Diputación de Córdoba. Córdoba (Spain). 128 pp. ISBN: 9788481541083.
 
 ### **Chapters**
 ##### **2022**
-Matías, L., **Pérez-Luque, A.J.** & Zamora, R. Forest dynamics under land-use and climate change scenarios. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 213–228. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_13)
+Matías, L., **Pérez-Luque, A.J.** & Zamora, R. *Forest dynamics under land-use and climate change scenarios*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 213–228. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_13)
 
-Zamora, R., Hódar, J.A., **Pérez-Luque, A.J.**, Barea-Azcón, J.M. Responses of animal populations and communities to climate change and land-use shifts. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 193–211. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_12)
+Zamora, R., Hódar, J.A., **Pérez-Luque, A.J.**, Barea-Azcón, J.M. *Responses of animal populations and communities to climate change and land-use shifts*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 193–211. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_12)
 
-Zamora, R., **Pérez-Luque, A.J.**, Granados, J.E., Ramos, B., Navarro, J., Cano-Manuel, J., Barea-Azcón, J.M., Aspízua, R.  Managing the uniqueness of Sierra Nevada ecosystems under global change: the value of in situ scientific research. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 329–349. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_20)
+Zamora, R., **Pérez-Luque, A.J.**, Granados, J.E., Ramos, B., Navarro, J., Cano-Manuel, J., Barea-Azcón, J.M., Aspízua, R.  *Managing the uniqueness of Sierra Nevada ecosystems under global change: the value of in situ scientific research*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 329–349. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_20)
 
+##### 2018  
+Zamora, R., **Pérez-Luque, A.J.** *Diseño de una actuación de restauración del enebral en la alta montaña de Sierra Nevada*. *In:* Titos, M., Luque-Martínez, T., Navarro-Llena, J.M. (eds) CIMAS: Actas del I Congreso Internacional de las montañas Sierra Nevada 2018. Editorial Universidad de Granada. Granada (Spain). pp 155-158. ISBN:978-84-338-6510-6. 
 
-## **Others** 
+##### 2017  
+Zamora, R; **Pérez-Luque, A.J.**, Bonet-García, F.J. *Monitoring global change in high mountains*. *In:* Catalan, J. Ninot, J.M., Aniz, M.M. (eds) High mountain conservation in a changing world. Springer. Cham (Germany). pp 385-413. ISBN: 978-3319857961. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-319-55982-7_16)
+
+##### 2016  
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Pérez-Pérez, R. *Trend analysis (2000-2014) of the snow cover by satellite (MODIS sensor)*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 43–46. ISBN: 978-84-338-5960-0. 
+ 
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Aspizua, R., Muñoz, J.M., Zamora, R. *Impact of global change in the pyrenean oak forests of Sierra Nevada recommendations for management*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 169–175. ISBN: 978-84-338-5960-0. 
+ 
+Moreno-Llorca, R.A., **Pérez-Luque, A.J.**, Bonet-García, F.J., Zamora, R. *Historical analysis of socio-ecological changes in the municipality of Cañar (Alpujarra, Sierra Nevada) over the last 5 centuries*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 63-65. ISBN: 978-84-338-5960-0. 
+
+**Pérez-Luque, A.J.**, Moreno-llorca, R.A., Pérez-Pérez, R., Bonet-García, F.J. *Temporal analysis of wellbeing in the municipalities of Sierra Nevada*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 186-187. ISBN: 978-84-338-5960-0.
+ 
+**Pérez-Luque, A.J.**, Sánchez-Rojas, C.P., Zamora, R., Bonet-García, F.J. *Changes in diversity, abundance and flowering phenology in plant communities: a 25-years study of high-mountain meadows (borreguiles)*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 128-129. ISBN: 978-84-338-5960-0.
+
+**Pérez-Luque, A.J.**, Pérez-Pérez, R., Aspízua, R., Muñoz, J.M., Bonet-García, F.J. *Climate in Sierra Nevada: present and future*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 27-31. ISBN: 978-84-338-5960-0.
+ 
+**Pérez-Luque, A.J.**, Pérez-Pérez, R., Bonet-García, F.J. *Climate change over the last 50 years in Sierra Nevada*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 24-26. ISBN: 978-84-338-5960-0.
+
+**Pérez-Luque, A.J.**, Navarro-González, I., Bonet-García, F.J., Zamora, R. *The importance of past land uses in the natural regeneration of holm oak woodlands under pine plantations*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 66-67. ISBN: 978-84-338-5960-0.
+
+##### 2015  
+**Pérez-Luque, A.J.**, Pérez-Pérez, R., Bonet-García, F.J. *Evolución del clima en los últimos 50 años en Sierra Nevada*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 22-24. ISBN: 978-84-338-5814-6. 
+
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Pérez-Pérez, R. *Análisis de tendencias (2000-2014) en la cubierta de nieve mediante satélite (sensor MODIS)*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 41-44. ISBN: 978-84-338-5814-6. 
+ 
+**Pérez-Luque, A.J.**, Pérez-Pérez, R., Aspízua, R., Muñoz, J.M., Bonet-García, F.J. *El clima en Sierra Nevada: presente y futuro*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 25-29. ISBN: 978-84-338-5814-6. 
+
+Moreno-Llorca, R.A., **Pérez-Luque, A.J.**, Bonet-García, F.J., Zamora, R. *Análisis histórico de los cambios socio-ecológicos en el municipio de Cáñar (Alpujarra de Sierra Nevada) en los últimos 5 siglos*.  *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 57-60. ISBN: 978-84-338-5814-6. 
+
+**Pérez-Luque, A.J.**, Navarro-González, I., Bonet-García, F.J., Zamora, R. *La importancia de los usos del suelo pasados en la regeneración natural de quercíneas bajo repoblaciones de coníferas*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 64-65. ISBN: 978-84-338-5814-6. 
+
+**Pérez-Luque, A.J.**, Sánchez-Rojas, C.P., Zamora, R., Bonet-García, F.J. *Cambios temporales en la diversidad, abundancia y fenología de las comunidades vegetales: un estudio de 25 años en los borreguiles*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 126-127. ISBN: 978-84-338-5814-6.
+
+**Pérez-Luque, A.J.**, Moreno-llorca, R.A., Pérez-Pérez, R., Bonet-García, F.J. *Análisis temporal del bienestar de los municipios del Espacio Natural de Sierra Nevada*. Bonet-García, F.J., **Pérez-Luque, A.J.**, Pérez-Pérez, R. La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 184-185. ISBN: 978-84-338-5814-6.  
+
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Aspizua, R., Muñoz, J.M., Zamora, R. *Impactos del cambio global en los robledales de Sierra Nevada: algunas evidencias y recomendaciones de manejo*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) La huella del cambio global en Sierra Nevada: retos para la conservación. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 167-173. ISBN: 978-84-338-5814-6.
+
+##### 2014  
+Navarro-González, I; Bonet-García, F.J, **Pérez-Luque, A.J.** *Vegetation mapping using old documents*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Sierra Nevada Global Change Observatory. Monitoring methodologies. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 20–21. ISBN: 978-84-92807-87-1. 
+
+Navarro-González, I; Bonet-García, F.J, **Pérez-Luque, A.J.** *Detailed characterization of plant formations using orthophotography*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Sierra Nevada Global Change Observatory. Monitoring methodologies. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 16–17. ISBN: 978-84-92807-87-1. 
+ 
+Moreno-Llorca, R.A., Bonet-García, F.J., **Pérez-Luque, A.J.** *Assessment of the human footprint in Sierra Nevada*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Sierra Nevada Global Change Observatory. Monitoring methodologies. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 108-109. ISBN: 978-84-92807-87-1. 
+
+##### 2013  
+Bonet-García, F.J., Pérez-Pérez, R.; **Pérez-Luque, A.J.**, Magaña-Redondo, P.J. *An ontological indicator system based on MODIS Images to detect changes in habitats functioning in Sierra Nevada (Spain) Natura 2000 Site*. *In:* Jekel, T., Car, A., Strobl, J., Griesebner, G (eds) GI_Forum 2013. Creating the GISociety. Herbert Wichmann Verlag, VDE VERLAG GMBH. Berlin (Germany). pp 496-499. ISBN: 978-3-7001-7438-7. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1553/giscience2013s496)
+
+##### 2012  
+Navarro-González, I; Bonet-García, F.J, **Pérez-Luque, A.J.** *Cartografía histórica de la vegetación mediante ortofotos*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Observatorio de Cambio Global de Sierra Nevada. Metodologías de seguimiento. Consejería de Medio Ambiente. Junta de Andalucía. Granada (Spain). pp 16–17. ISBN:978-84-92807-78-9. 
+
+Navarro-González, I; Bonet-García, F.J, **Pérez-Luque, A.J.** *Cartografía histórica de la vegetación mediante documentos antiguos*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Observatorio de Cambio Global de Sierra Nevada. Metodologías de seguimiento. Consejería de Medio Ambiente. Junta de Andalucía. Granada (Spain). pp 20–21. ISBN:978-84-92807-78-9. 
+
+Moreno-Llorca, R.A., Bonet-García, F.J., **Pérez-Luque, A.J.** *Evaluación de la huella humana en Sierra Nevada*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Observatorio de Cambio Global de Sierra Nevada. Metodologías de seguimiento. Consejería de Medio Ambiente. Junta de Andalucía. Granada (Spain). pp 108-109. ISBN:978-84-92807-78-9. 
 
 ## **PhD Thesis** 
 **Pérez-Luque, A.J.** (2022). Análisis de la dinámica de los robledales (*Quercus pyrenaica* Willd.) frente al cambio global en el límite sur de su distribución (Sierra Nevada). Universidad de Granada. [{{< fa file-pdf size=Huge >}}](https://digibug.ugr.es/bitstream/handle/10481/73618/69212%281%29.pdf?sequence=4&isAllowed=y) [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/73618). ISBN: 9788411172592
 
-:::{.column-margin}
-![](images/portada_phd.jpg)
-::: 
+## **Others** 
+
 
