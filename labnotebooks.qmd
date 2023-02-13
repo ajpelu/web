@@ -1,0 +1,28 @@
+---
+title: "Lab's Notebooks"
+page-layout: full
+---
+
+Here you can find several **Lab's notebooks**. Be aware, those are very dynamics and experimental. 
+
+### 2022
+- Butterfly diversity, richness and abundance patterns in Sierra Nevada (SE Spain): conservation implications under a global change scenario [{{< fa link size=Huge >}}](https://ajpelu.github.io/ms_mariposas_biodiversity/)
+
+- Comparison of vegetation parameters obtained with UAV and from field campaing, Alcontar (Sierra de Filabres, Almería) [{{< fa link size=Huge >}}](https://serpam.github.io/droneveg_alcontar/)
+
+### 2021 
+
+- Analysis of severity of prescribed burns in Alcóntar (Sierra de Filabres, Almería) [{{< fa link size=Huge >}}](https://serpam.github.io/fire_alcontar/)
+- Soil Data analysis in prescribed burn areas in Alcóntar (Sierra de Filabres, Almería) [{{< fa link size=Huge >}}](https://serpam.github.io/soil_alcontar/)
+- Population trend analysis of Passerine birds in Sierra Nevada [{{< fa link size=Huge >}}](https://ajpelu.github.io/booksn_dispersantes/)
+- Analysis of infestation of pine processionary moth (PPM) in pine forest of Sierra Nevada [{{< fa link size=Huge >}}](https://ajpelu.github.io/booksn_ppm/)
+
+## Visualizations 
+
+- Spatial visualization of vegetation transects to analyze the colonization pattern of abandonment croplands within *Quercus pyrenaica* woodlands of Sierra Nevada[{{< fa link size=Huge >}}](https://ajpelu.github.io/qpyr_sp_coloniza/) 
+
+- Geoinformation about *Quercus pyrenaica* woodlands at Sierra Nevada [{{< fa link size=Huge >}}](https://ajpelu.github.io/qpyr_historic)
+
+- Visualization of the Dataset: Ecosystem functioning and functional diversity of Sierra Nevada (SE Spain) [{{< fa link size=Huge >}}](https://ajpelu.github.io/eftSN/)
+
+- Report's Visualization: Simulation of the climate change impacts on high-mountain scrubland ecosystems of Sierra Nevada (SE Spain) (*in Spanish*) [{{< fa link size=Huge >}}](https://ajpelu.github.io/life_enebrando)

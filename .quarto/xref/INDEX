@@ -40,5 +40,17 @@
   },
   "publications.qmd": {
     "publications.html": "57a833a0"
+  },
+  "projects/obsnev/index.qmd": {
+    "index.html": "742d0460"
+  },
+  "labnotebooks.qmd": {
+    "labnotebooks.html": "4d190f02"
+  },
+  "software/diveRpine/index.qmd": {
+    "index.html": "1a9480ba"
+  },
+  "software.qmd": {
+    "software.html": "9ff3939c"
   }
 }

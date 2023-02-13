@@ -6,17 +6,18 @@ website:
   title: "Antonio J. Pérez-Luque"
   navbar:
     left:
-      - href: index.qmd
-        text: "{{< fa house-user >}} Home"
-      - about.qmd
+      - href: publications.qmd
+        text: "{{< fa book-open >}} Publications" 
       - href: projects.qmd
         text: "{{< fa chart-line >}} Projects"
       - href: posts.qmd
         text: "{{< fa feather-pointed >}} Blog"
-      - href: publications.qmd
-        text: Publications
+      - href: software.qmd
+        text: "{{< fa gear >}} Software"
       - href: datasets.qmd
         text: "{{< fa table >}} Datasets"
+      - href: labnotebooks.qmd
+        text: "{{< fa flask >}} Lab's notebooks"
 
 format:
   html:

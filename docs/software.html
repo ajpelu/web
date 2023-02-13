@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Antonio J. Pérez-Luque - posts</title>
+<title>Antonio J. Pérez-Luque - software</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,9 +71,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -114,22 +114,22 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"><i class="fa-solid fa-house-user"></i> Home</a>
+    <a class="nav-link" href="./publications.html"><i class="fa-solid fa-book-open"></i> Publications</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./projects.html"><i class="fa-solid fa-chart-line"></i> Projects</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"><i class="fa-solid fa-feather-pointed"></i> Blog</a>
+    <a class="nav-link" href="./posts.html"><i class="fa-solid fa-feather-pointed"></i> Blog</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html">Publications</a>
+    <a class="nav-link active" href="./software.html" aria-current="page"><i class="fa-solid fa-gear"></i> Software</a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./datasets.html"><i class="fa-solid fa-table"></i> Datasets</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./labnotebooks.html"><i class="fa-solid fa-table"></i> Lab’s notebooks</a>
+    <a class="nav-link" href="./labnotebooks.html"><i class="fa-solid fa-flask"></i> Lab’s notebooks</a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -143,13 +143,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(1)</span></div><div class="category" data-category="python">python <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Adaptive Management">Adaptive Management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Mediterranean mountain">Mediterranean mountain <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Pine plantation">Pine plantation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="R package">R package <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">posts</h1>
+<h1 class="title">software</h1>
 </div>
 
 
@@ -167,48 +167,43 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Quarto,R,python" data-listing-date-sort="1669158000000" data-listing-file-modified-sort="1669159887505" data-listing-reading-time-sort="0.005">
-<div class="thumbnail">
-<p><a href="./posts/2022-11-23-test/index.html"> <img src="./posts/2022-11-23-test/gatito.jpeg" class="thumnail-image"> </a></p>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="R package,Pine plantation,Mediterranean mountain,Adaptive Management" data-listing-file-modified-sort="1676322017397" data-listing-reading-time-sort="0.925">
+<a href="./software/diveRpine/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./software/diveRpine/logo-diverpine.png" class="thumbnail-image card-img" style="height: 250px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+diveRpine
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('R package'); return false;">
+R package
 </div>
-<div class="body">
-<a href="./posts/2022-11-23-test/index.html">
-<h3 class="no-anchor listing-title">
-test
-</h3>
-<div class="listing-subtitle">
+<div class="listing-category" onclick="window.quartoListingCategory('Pine plantation'); return false;">
+Pine plantation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Mediterranean mountain'); return false;">
+Mediterranean mountain
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Adaptive Management'); return false;">
+Adaptive Management
+</div>
+</div>
+<div class="card-text listing-description">
+diveRpine
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
 </div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Quarto'); return false;">
-Quarto
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('python'); return false;">
-python
 </div>
 </div>
-<a href="./posts/2022-11-23-test/index.html">
-<div class="listing-description">
-<p>Test the blog bla bla bla</p>
 </div>
 </a>
-</div>
-<div class="metadata">
-<a href="./posts/2022-11-23-test/index.html">
-<div class="listing-date">
-Nov 23, 2022
-</div>
-<div class="listing-author">
-Antonio J. Pérez-Luque
-</div>
-</a>
-</div>
 </div>
 </div>
 <div class="listing-no-matching d-none">
