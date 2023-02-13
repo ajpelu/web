@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: auto
+
 website:
   title: "Antonio J. Pérez-Luque"
   navbar:
@@ -27,5 +30,3 @@ format:
     css: 
       - styles.css
     toc: true
-
-

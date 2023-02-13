@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/2022-11-23-test/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/adaptamed/index.html",
@@ -17,6 +11,12 @@
     "listing": "/software.html",
     "items": [
       "/software/diveRpine/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2022-11-23-test/index.html"
     ]
   }
 ]
