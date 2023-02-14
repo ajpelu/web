@@ -52,5 +52,8 @@
   },
   "software.qmd": {
     "software.html": "9ff3939c"
+  },
+  "software/datefixeR/index.qmd": {
+    "index.html": "90323c94"
   }
 }
