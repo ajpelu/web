@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>ajperezluque.com/posts/2022-11-23-test/index.html</loc>
+    <lastmod>2023-02-14T22:19:37.450Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/projects/adaptamed/index.html</loc>
+    <lastmod>2023-02-14T22:19:38.480Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/projects/obsnev/index.html</loc>
+    <lastmod>2023-02-14T22:19:38.879Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/projects/sumhal/index.html</loc>
+    <lastmod>2023-02-14T22:19:39.309Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/labnotebooks.html</loc>
+    <lastmod>2023-02-14T22:19:40.153Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/about/index.html</loc>
+    <lastmod>2023-02-14T22:19:40.658Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/projects.html</loc>
+    <lastmod>2023-02-14T22:19:41.037Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/index.html</loc>
+    <lastmod>2023-02-14T22:19:41.423Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/software/diveRpine/index.html</loc>
+    <lastmod>2023-02-14T22:19:42.143Z</lastmod>
+  </url>
+  <url>
     <loc>ajperezluque.com/software/datefixeR/index.html</loc>
-    <lastmod>2023-02-14T22:12:00.347Z</lastmod>
+    <lastmod>2023-02-14T22:19:42.442Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/publications.html</loc>
+    <lastmod>2023-02-14T22:19:44.587Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/software.html</loc>
+    <lastmod>2023-02-14T22:19:45.040Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/datasets.html</loc>
+    <lastmod>2023-02-14T22:19:45.447Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/posts.html</loc>
+    <lastmod>2023-02-14T22:19:45.849Z</lastmod>
+  </url>
+  <url>
+    <loc>ajperezluque.com/test.html</loc>
+    <lastmod>2023-02-14T22:19:46.193Z</lastmod>
   </url>
 </urlset>

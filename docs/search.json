@@ -70,6 +70,13 @@
     "text": "The aim of the application is to develop a decision-support tool that simulates the dynamics of forest ecological processes. The application projects the most likely ecological succession in each stand based on the ecological context, and visualizes the relative importance of the different ecological mechanisms involved in the process. The resulting simulations help the manager to identify forest stands that most need intervention (active restoration), compared to other stands where intervention is unneeded (passive restoration), depending on the ecosystem services that the manager wishes to maximize. It also allows the user to visualize some of the complex ecological processes that underlie the diversification of pine plantations in Mediterranean mountain areas. This tool uses information published in scientific journals in a synthetic and straightforward way, enabling the manager to visualize different scenarios and perform simulations based on solid field data interpreted in scientific contexts."
   },
   {
+    "objectID": "software/datefixeR/index.html",
+    "href": "software/datefixeR/index.html",
+    "title": "datefixeR",
+    "section": "",
+    "text": "datefixR standardizes dates in different formats or with missing data: for example dates which have been provided from free text web forms.\nMore info in the website of the project.\nThere are also a shinyapp to quickly “play” with the datefixeR package.\nMy contribution to this package was as collaborator (ctb) and translator (trl) to allow the package work with dates in Spanish."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -117,12 +124,5 @@
     "title": "posts",
     "section": "",
     "text": "Quarto\n\n\nR\n\n\npython\n\n\n\n\nTest the blog bla bla bla\n\n\n\n\n\n\nNov 23, 2022\n\n\nAntonio J. Pérez-Luque\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "software/datefixeR/index.html",
-    "href": "software/datefixeR/index.html",
-    "title": "datefixeR",
-    "section": "",
-    "text": "datefixR standardizes dates in different formats or with missing data: for example dates which have been provided from free text web forms.\nMore info in the website of the project.\nThere are also a shinyapp to quickly “play” with the datefixeR package.\nMy contribution to this package was as collaborator (ctb) and translator (trl) to allow the package work with dates in Spanish."
   }
 ]
