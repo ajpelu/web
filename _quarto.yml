@@ -7,6 +7,7 @@ execute:
 
 website:
   title: "Antonio J. Pérez-Luque"
+  site-url: "https://ajperezluque.com/"
   navbar:
     left:
       - href: publications.qmd
