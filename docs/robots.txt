@@ -1,1 +1,1 @@
-Sitemap: ajperezluque.com/sitemap.xml
+Sitemap: https://ajpelu.github.io/web/sitemap.xml
