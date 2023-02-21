@@ -3,6 +3,10 @@ title: "Publications"
 page-layout: full
 ---
 ## **Articles**
+##### **2023**
+
+**Pérez-Luque, A.J.** & Zamora, R. diveRpine: Diversification of pine plantations in Mediterranean mountains. An interactive R tool to help decision makers. *Ecological Indicators*, 147: 110021. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1016/j.ecolind.2023.110021)  
+
 ##### **2022**
 Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galiana-García, M., Chaves, M.D., Olvera, M. & Munguira, M.L. Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, icad.12617. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1111/icad.12617)
 
@@ -31,7 +35,7 @@ Granados, J.E., Ros-Candeira, A., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Can
 ##### **2019**
 **Pérez-Luque, A.J.** & Ros-Candeira, A.  Compartiendo datos en Ecología: cómo añadir más valor a los datos. *Ecosistemas*, 28 (3): 150–159. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.1838)
 
-Ros-Candeira, A., **Pérez-Luque, A.J.**, Suárez-Muñoz, M., Bonet-García, F.J., Hódar, J.A., Giménez de Azcárate, F. & Ortega-Díaz, E.  Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain. *ZooKeys*, 852: 125–136.[{{< ai doi size=xl color="#416ba3" >}}]( https://doi.org/10.3897/zookeys.852.28567)
+Ros-Candeira, A., **Pérez-Luque, A.J.**, Suárez-Muñoz, M., Bonet-García, F.J., Hódar, J.A., Giménez de Azcárate, F. & Ortega-Díaz, E.  Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain. *ZooKeys*, 852: 125–136.[{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3897/zookeys.852.28567)
 
 ##### **2016**
 Malone, S.L., Tulbure, M.G., **Pérez-Luque, A.J.**, Assal, T.J., Bremer, L.L., Drucker, D.P., Hillis, V., Varela, S. & Goulden, M.L. Drought resistance across California ecosystems: Evaluating changes in carbon dynamics using satellite imagery. *Ecosphere*, 7 (11): e01561. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1002/ecs2.1561)
