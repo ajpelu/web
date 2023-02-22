@@ -1,24 +1,17 @@
 [
   {
-    "objectID": "projects/adaptamed/index.html",
-    "href": "projects/adaptamed/index.html",
-    "title": "ADAPTAMED",
-    "section": "",
-    "text": "The project represents a platform for interdisciplinary collaboration that aims to streamline the transfer and application of scientific knowledge and to develop new forms of environmental diagnosis and management. The added value of this collaboration allows us to develop actions aimed at promoting the natural mechanisms of recovery and maintenance of ecosystems, exploring a wide range of options for adaptation.\nThis project aims to mitigate the negative effect of climate change on key ecosystem services provided by ecosystems of three Mediterranean natural protected areas Sierra Nevada, Doñana and Cabo de Gata.\nDuration: July 2015 - December 2021  PI: Professor Regino Zamora (University of Granada)"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "projects",
-    "section": "",
-    "text": "Ecosystem Services\n\n\nMediterranean Ecosystems\n\n\nGlobal Change\n\n\nAdaptive Management\n\n\nFinished\n\n\n\nLIFE-ADAPTAMED. Protection of key ecosystem services of Medieterranean socioecosystems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMediterranean Ecosystems\n\n\nGlobal Change\n\n\nSierra Nevada\n\n\nEcology\n\n\nInformation Systems\n\n\nEcosystem Services\n\n\nFinished\n\n\n\nSierra Nevada Global Change Observatory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMediterranean Ecosystems\n\n\nGlobal Change\n\n\nAdaptive Management\n\n\n\nSustainability for Mediterraean Hospost integrating LifeWatch ERIC\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/2022-11-23-test/index.html",
     "href": "posts/2022-11-23-test/index.html",
     "title": "test",
     "section": "",
     "text": "BibTeX citation:@online{j.pérez-luque2022,\n  author = {Antonio J. Pérez-Luque},\n  editor = {},\n  title = {Test},\n  date = {2022-11-23},\n  url = {https://ajpelu.github.io/web/posts/2022-11-23-quarto-blogs/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nAntonio J. Pérez-Luque. 2022. “Test.” November 23, 2022. https://ajpelu.github.io/web/posts/2022-11-23-quarto-blogs/."
+  },
+  {
+    "objectID": "projects/adaptamed/index.html",
+    "href": "projects/adaptamed/index.html",
+    "title": "ADAPTAMED",
+    "section": "",
+    "text": "The project represents a platform for interdisciplinary collaboration that aims to streamline the transfer and application of scientific knowledge and to develop new forms of environmental diagnosis and management. The added value of this collaboration allows us to develop actions aimed at promoting the natural mechanisms of recovery and maintenance of ecosystems, exploring a wide range of options for adaptation.\nThis project aims to mitigate the negative effect of climate change on key ecosystem services provided by ecosystems of three Mediterranean natural protected areas Sierra Nevada, Doñana and Cabo de Gata.\nDuration: July 2015 - December 2021  PI: Professor Regino Zamora (University of Granada)"
   },
   {
     "objectID": "projects/obsnev/index.html",
@@ -54,6 +47,20 @@
     "title": "About",
     "section": "",
     "text": "education\n\n\nGraduation Cap PhD in Biology (Fundamental and Systems Biology), 2022\n\n\nUniversidad de Granada (Spain)\n\n\nGraduation Cap Master’s Degree in Applied Statistics, 2011\n\n\nUniversidad de Granada (Spain)\n\n\nGraduation Cap BS Biology, 2006\n\n\nUniversidad de Granada (Spain)\n\n\n\n\nInterests\n\nSatellite Remote Sensing\n\n\nTree Forest Ecology\n\n\nEarth americas Global Change Ecology\n\n\nMountain Sun Mountain Ecosystems\n\n\nTerminal Data Analysis and Ecoinformatics\n\n\n\n\nexperience\n\n\nChalkboard user PostDoctoral Remote Sensing, 2021-present\n\n\nEstación Experimental del Zaidín (EEZ-CSIC) Spanish Council for Scientific Research\n\n\nBar Chart Hired Researcher, 2015-2021\n\n\nInter-University Institute for Earth System Research (IISTA) - University of Granada\n\n\nBar Chart Technical support staff, 2012-2014\n\n\nInter-University Institute for Earth System Research (IISTA) - University of Granada\n\n\nBar Chart Hired Researcher, 2009-2011\n\n\nAndalusian Environmental Center (CEAMA) - University of Granada\n\n\nBar Chart Technician, 2009\n\n\nUniversity of Granada"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "Ecosystem Services\n\n\nMediterranean Ecosystems\n\n\nGlobal Change\n\n\nAdaptive Management\n\n\nFinished\n\n\n\nLIFE-ADAPTAMED. Protection of key ecosystem services of Medieterranean socioecosystems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMediterranean Ecosystems\n\n\nGlobal Change\n\n\nSierra Nevada\n\n\nEcology\n\n\nInformation Systems\n\n\nEcosystem Services\n\n\nFinished\n\n\n\nSierra Nevada Global Change Observatory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMediterranean Ecosystems\n\n\nGlobal Change\n\n\nAdaptive Management\n\n\n\nSustainability for Mediterraean Hospost integrating LifeWatch ERIC\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ecoinformatics",
+    "section": "",
+    "text": "I’m Antonio J., Ecologist (PhD in Ecology), biologist and Master in Applied Statistics from University of Granada (Spain). The focus of my disertation was the spatio-temporal dynamics of Pyrenean oak forests (Quercus pyrenaica) in Mediterranean mountains.\nI like to introduce myself as ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools. I’m one of the co-founders of the Ecoinformatic Working Group of the Spanish Terrestrial Ecology Association (AEET).\nAbout me\n\nSatellite Remote Sensing\n\n\nTree Forest Ecology\n\n\nEarth americas Global Change Ecology\n\n\nMountain Sun Mountain Ecosystems\n\n\nTerminal Data Analysis and Ecoinformatics"
   },
   {
     "objectID": "software/diveRpine/index.html",
@@ -117,12 +124,5 @@
     "title": "posts",
     "section": "",
     "text": "Quarto\n\n\nR\n\n\npython\n\n\n\n\nTest the blog bla bla bla\n\n\n\n\n\n\nNov 23, 2022\n\n\nAntonio J. Pérez-Luque\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ecoinformatics",
-    "section": "",
-    "text": "I’m Antonio J., Ecologist (PhD in Ecology), biologist and Master in Applied Statistics from University of Granada (Spain). The focus of my disertation was the spatio-temporal dynamics of Pyrenean oak forests (Quercus pyrenaica) in Mediterranean mountains.\nI like to introduce myself as ecoinformatic. My expertise is on analysis of ecological data with R and programming tools. High experience in use of R, GIS and reproducible science tools. I’m one of the co-founders of the Ecoinformatic Working Group of the Spanish Terrestrial Ecology Association (AEET).\nAbout me\n\nSatellite Remote Sensing\n\n\nTree Forest Ecology\n\n\nEarth americas Global Change Ecology\n\n\nMountain Sun Mountain Ecosystems\n\n\nTerminal Data Analysis and Ecoinformatics"
   }
 ]
