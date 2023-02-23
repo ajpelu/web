@@ -1,5 +1,5 @@
 ---
-title: "Ecoinformatics"
+title: <span style="font-size:0.75em"> Antonio J. Pérez-Luque </span> <br> <span style="font-size:0.65em">Ecoinformatics</span> 
 image: images/yo.jpg
 toc: false
 about: 
@@ -7,7 +7,7 @@ about:
   image-shape: round
   image-width: 12em
   links:
-    - icon: github
+    - text: "{{< fa brands github size=8x >}}"
       url: https://github.com/ajpelu
     - text: "{{< ai google-scholar size=2x >}}"
       href: https://scholar.google.es/citations?user=_2VwSg0AAAAJ&hl
