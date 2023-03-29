@@ -7,9 +7,9 @@ page-layout: full
 
 **Pérez-Luque, A.J.** & Zamora, R. diveRpine: Diversification of pine plantations in Mediterranean mountains. An interactive R tool to help decision makers. *Ecological Indicators*, 147: 110021. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1016/j.ecolind.2023.110021)  
 
-##### **2022**
-Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galiana-García, M., Chaves, M.D., Olvera, M. & Munguira, M.L. Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, icad.12617. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1111/icad.12617)
+Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galiana-García, M., Chaves, M.D., Olvera, M. & Munguira, M.L. Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, 16 (2): 217-230. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1111/icad.12617)
 
+##### **2022**
 **Pérez-Luque, A.J.**, Ramos-Font, M.E., Barbieri Tognetti, M.J., Tarragona Pérez, C., Calvo Renta, G. & Robles Cruz, A.B. Vegetation cover estimation in semi-arid shrublands after prescribed burning: Field-ground and drone image comparison. *Drones*, 6 (11): 370. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3390/drones6110370) [{{< fa file-pdf size=Huge >}}](https://doi.org/10.3390/drones6110370) [{{< fa brands github size=Huge >}}](https://serpam.github.io/rpasveg_alcontar/)
 
 ##### **2021**
