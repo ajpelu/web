@@ -1,0 +1,14 @@
+---
+title: "Ciclo de Gestión de los Datos: Ecoinformática"
+description: |
+  material for Ecoinformatics subject (Master's in Biodiversity Conservation, Management and Restoration (University of Granada). Spanish
+author:
+  - name: Antonio J. Pérez-Luque
+    url: https://ajperezluque.com
+    orcid: 0000-0002-1747-0469
+date: 2023-04-14
+categories: [Ecoinformatics, R, Data Science, Control version, Reproducible Science]
+---
+
+
+Under construction

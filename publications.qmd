@@ -9,6 +9,8 @@ page-layout: full
 
 Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galiana-García, M., Chaves, M.D., Olvera, M. & Munguira, M.L. Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, 16 (2): 217-230. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1111/icad.12617)
 
+Cazorla, B.P., Cabello, J., Reyes, A., Guirado, E., Peñas, J., **Pérez-Luque, A.J.** & Alcaraz-Segura, D. A remote sensing-based dataset to characterize the ecosystem functioning and functional diversity in the Biosphere Reserve of Sierra Nevada (SE Spain). *Earth System Science Data Discussions*, 15 (4): 1871–1887. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.5194/essd-15-1871-2023) 
+
 ##### **2022**
 **Pérez-Luque, A.J.**, Ramos-Font, M.E., Barbieri Tognetti, M.J., Tarragona Pérez, C., Calvo Renta, G. & Robles Cruz, A.B. Vegetation cover estimation in semi-arid shrublands after prescribed burning: Field-ground and drone image comparison. *Drones*, 6 (11): 370. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3390/drones6110370) [{{< fa file-pdf size=Huge >}}](https://doi.org/10.3390/drones6110370) [{{< fa brands github size=Huge >}}](https://serpam.github.io/rpasveg_alcontar/)
 
@@ -23,8 +25,6 @@ Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galian
 Hódar, J.A., Cayuela, L., Heras, D., **Pérez-Luque, A.J.** & Torres-Muros, L.  Expansion of elevational range in a forest pest: Can parasitoids track their hosts? *Ecosphere*, 12 (4): e03476. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1002/ecs2.3476)
 
 **Pérez-Luque, A.J.**, Peinó-Calero, E., Rodríguez-Brito, A., Esteban-Parra, M.J., Merino-Ceballos, M., Guerrero-Alonso, P.D., Moreno-Llorca, R., Ros-Candeira, A. & Zamora, R.  ClimaNevada: Base de datos climática del Observatorio de Cambio Global de Sierra Nevada. *Ecosistemas*, 30 (1): 2155. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2155)
-
-Cazorla, B.P., Cabello, J., Reyes, A., Guirado, E., Peñas, J., **Pérez-Luque, A.J.** & Alcaraz-Segura, D.  A remote sensing-based dataset to characterize the ecosystem functioning and functional diversity in the Biosphere Reserve of Sierra Nevada (SE Spain). *Earth System Science Data Discussions*, 2021: 1–26. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.5194/essd-2021-223)
 
 Zamora, R., **Pérez-Luque, A.J.**, Guerrero-Alonso, P.D., Moreno-Llorca, R., Merino-Ceballos, M. & Ros-Candeira, A.  Uniendo macro y microclima en paisajes de montaña: Una aproximación conceptual e instrumental. *Ecosistemas*, 30 (1): 2166. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2166)
 

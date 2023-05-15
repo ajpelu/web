@@ -19,5 +19,11 @@
     "items": [
       "/posts/2022-11-23-test/index.html"
     ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/teaching/2023_ecoinformatics/index.html"
+    ]
   }
 ]

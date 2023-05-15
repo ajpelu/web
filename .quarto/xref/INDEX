@@ -55,5 +55,11 @@
   },
   "software/datefixeR/index.qmd": {
     "index.html": "90323c94"
+  },
+  "teaching.qmd": {
+    "teaching.html": "a852fb57"
+  },
+  "teaching/2023_ecoinformatics/index.qmd": {
+    "index.html": "3577f69b"
   }
 }

@@ -18,6 +18,8 @@ website:
         text: "{{< fa feather-pointed >}} Blog"
       - href: software.qmd
         text: "{{< fa gear >}} Software"
+      - href: teaching.qmd
+        text: "{{< fa user-graduate >}} Teaching"
       - href: datasets.qmd
         text: "{{< fa table >}} Datasets"
       - href: labnotebooks.qmd

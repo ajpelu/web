@@ -1,0 +1,17 @@
+---
+title: "Teaching & Talks"
+listing:
+  contents: teaching
+  type: grid
+  grid-columns: 3
+  image-height: 250px
+  page-size: 100
+  max-description-length: 175
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  sort: "date desc"
+  grid-item-border: true
+page-layout: full
+title-block-banner: false
+---
