@@ -7,7 +7,7 @@ about:
   image-shape: round
   image-width: 12em
   links:
-    - text: "{{< fa brands github size=8x >}}"
+    - text: "{{< fa brands github size=2x >}}"
       url: https://github.com/ajpelu
     - text: "{{< ai google-scholar size=2x >}}"
       href: https://scholar.google.es/citations?user=_2VwSg0AAAAJ&hl
@@ -28,12 +28,14 @@ I like to introduce myself as ecoinformatic. My expertise is on analysis of ecol
 
 [About me](about/)
 
-<p class="custom-subtitle">`r fontawesome::fa("satellite", fill = "#416ba3", a11y = "sem")` **Remote Sensing**</p>
 
-<p class="custom-subtitle">`r fontawesome::fa("tree", fill = "#416ba3", a11y = "sem")` **Forest Ecology**</p>
 
-<p class="custom-subtitle">`r fontawesome::fa("earth-americas", fill = "#416ba3", a11y = "sem")` **Global Change Ecology**</p>
+<p class="custom-subtitle">{{< fa satellite >}} **Remote Sensing**</p>
 
-<p class="custom-subtitle">`r fontawesome::fa("mountain-sun", fill = "#416ba3", a11y = "sem")` **Mountain Ecosystems**</p>
+<p class="custom-subtitle">{{< fa tree >}} **Forest Ecology**</p>
 
-<p class="custom-subtitle">`r fontawesome::fa("terminal", fill = "#416ba3", a11y = "sem")` **Data Analysis and Ecoinformatics**</p>
+<p class="custom-subtitle">{{< fa earth-americas >}}  **Global Change Ecology**</p>
+
+<p class="custom-subtitle">{{< fa mountain-sun >}}  **Mountain Ecosystems**</p>
+
+<p class="custom-subtitle">{{< fa terminal >}} **Data Analysis and Ecoinformatics**</p>
