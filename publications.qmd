@@ -5,108 +5,108 @@ page-layout: full
 ## **Articles**
 ##### **2023**
 
-**Pérez-Luque, A.J.** & Zamora, R. diveRpine: Diversification of pine plantations in Mediterranean mountains. An interactive R tool to help decision makers. *Ecological Indicators*, 147: 110021. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1016/j.ecolind.2023.110021)  
+**Pérez-Luque, A.J.** & Zamora, R. diveRpine: Diversification of pine plantations in Mediterranean mountains. An interactive R tool to help decision makers. *Ecological Indicators*, 147: 110021. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.ecolind.2023.110021)  
 
-Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galiana-García, M., Chaves, M.D., Olvera, M. & Munguira, M.L. Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, 16 (2): 217-230. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1111/icad.12617)
+Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galiana-García, M., Chaves, M.D., Olvera, M. & Munguira, M.L. Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, 16 (2): 217-230. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/icad.12617)
 
-Cazorla, B.P., Cabello, J., Reyes, A., Guirado, E., Peñas, J., **Pérez-Luque, A.J.** & Alcaraz-Segura, D. A remote sensing-based dataset to characterize the ecosystem functioning and functional diversity in the Biosphere Reserve of Sierra Nevada (SE Spain). *Earth System Science Data Discussions*, 15 (4): 1871–1887. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.5194/essd-15-1871-2023) 
+Cazorla, B.P., Cabello, J., Reyes, A., Guirado, E., Peñas, J., **Pérez-Luque, A.J.** & Alcaraz-Segura, D. A remote sensing-based dataset to characterize the ecosystem functioning and functional diversity in the Biosphere Reserve of Sierra Nevada (SE Spain). *Earth System Science Data Discussions*, 15 (4): 1871–1887. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.5194/essd-15-1871-2023) 
 
 ##### **2022**
-**Pérez-Luque, A.J.**, Ramos-Font, M.E., Barbieri Tognetti, M.J., Tarragona Pérez, C., Calvo Renta, G. & Robles Cruz, A.B. Vegetation cover estimation in semi-arid shrublands after prescribed burning: Field-ground and drone image comparison. *Drones*, 6 (11): 370. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3390/drones6110370) [{{< fa file-pdf size=Huge >}}](https://doi.org/10.3390/drones6110370) [{{< fa brands github size=Huge >}}](https://serpam.github.io/rpasveg_alcontar/)
+**Pérez-Luque, A.J.**, Ramos-Font, M.E., Barbieri Tognetti, M.J., Tarragona Pérez, C., Calvo Renta, G. & Robles Cruz, A.B. Vegetation cover estimation in semi-arid shrublands after prescribed burning: Field-ground and drone image comparison. *Drones*, 6 (11): 370. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3390/drones6110370) [{{< fa file-pdf size=lg >}}](https://doi.org/10.3390/drones6110370) [{{< fa brands github size=lg >}}](https://serpam.github.io/rpasveg_alcontar/)
 
 ##### **2021**
-**Pérez-Luque, A.J.**, Gea-Izquierdo, G. & Zamora, R.  Land-use legacies and climate change as a double challenge to oak forest resilience: mismatches of geographical and ecological rear edges. *Ecosystems*, 24 (4): 755–773. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/s10021-020-00547-y)
+**Pérez-Luque, A.J.**, Gea-Izquierdo, G. & Zamora, R.  Land-use legacies and climate change as a double challenge to oak forest resilience: mismatches of geographical and ecological rear edges. *Ecosystems*, 24 (4): 755–773. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/s10021-020-00547-y)
 
 **Pérez-Luque, A.J.**, Bonet-García, F.J. & Zamora, R.  Colonization pattern of abandoned croplands by *Quercus pyrenaica* in a Mediterranean mountain region. *Forests*, 12 (11): 1584.
-[{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3390/f12111584)
+[{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3390/f12111584)
 
-**Pérez-Luque, A.J.**, Benito, B.M., Bonet-García, F.J. & Zamora, R.  Ecological diversity within rear-edge: a case study from Mediterranean *Quercus pyrenaica* Willd. *Forests*, 12 (1): 10. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3390/f12010010)
+**Pérez-Luque, A.J.**, Benito, B.M., Bonet-García, F.J. & Zamora, R.  Ecological diversity within rear-edge: a case study from Mediterranean *Quercus pyrenaica* Willd. *Forests*, 12 (1): 10. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3390/f12010010)
 
-Hódar, J.A., Cayuela, L., Heras, D., **Pérez-Luque, A.J.** & Torres-Muros, L.  Expansion of elevational range in a forest pest: Can parasitoids track their hosts? *Ecosphere*, 12 (4): e03476. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1002/ecs2.3476)
+Hódar, J.A., Cayuela, L., Heras, D., **Pérez-Luque, A.J.** & Torres-Muros, L.  Expansion of elevational range in a forest pest: Can parasitoids track their hosts? *Ecosphere*, 12 (4): e03476. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1002/ecs2.3476)
 
-**Pérez-Luque, A.J.**, Peinó-Calero, E., Rodríguez-Brito, A., Esteban-Parra, M.J., Merino-Ceballos, M., Guerrero-Alonso, P.D., Moreno-Llorca, R., Ros-Candeira, A. & Zamora, R.  ClimaNevada: Base de datos climática del Observatorio de Cambio Global de Sierra Nevada. *Ecosistemas*, 30 (1): 2155. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2155)
+**Pérez-Luque, A.J.**, Peinó-Calero, E., Rodríguez-Brito, A., Esteban-Parra, M.J., Merino-Ceballos, M., Guerrero-Alonso, P.D., Moreno-Llorca, R., Ros-Candeira, A. & Zamora, R.  ClimaNevada: Base de datos climática del Observatorio de Cambio Global de Sierra Nevada. *Ecosistemas*, 30 (1): 2155. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2155)
 
-Zamora, R., **Pérez-Luque, A.J.**, Guerrero-Alonso, P.D., Moreno-Llorca, R., Merino-Ceballos, M. & Ros-Candeira, A.  Uniendo macro y microclima en paisajes de montaña: Una aproximación conceptual e instrumental. *Ecosistemas*, 30 (1): 2166. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2166)
+Zamora, R., **Pérez-Luque, A.J.**, Guerrero-Alonso, P.D., Moreno-Llorca, R., Merino-Ceballos, M. & Ros-Candeira, A.  Uniendo macro y microclima en paisajes de montaña: Una aproximación conceptual e instrumental. *Ecosistemas*, 30 (1): 2166. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2166)
 
 ##### **2020**
 Granados, J.E., Ros-Candeira, A., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Cano-Manuel, F.J., Fandos, P., Soriguer, R. C., Cerrato, J.E., Jiménez, J.M.P., Ramos, B. & Zamora, R. Long-term monitoring of the Iberian ibex population in the Sierra Nevada of the southeast Iberian Peninsula. *Scientific Data*, 7 (1): 203.
-[{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1038/s41597-020-0544-1)
+[{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1038/s41597-020-0544-1)
 
 ##### **2019**
-**Pérez-Luque, A.J.** & Ros-Candeira, A.  Compartiendo datos en Ecología: cómo añadir más valor a los datos. *Ecosistemas*, 28 (3): 150–159. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.1838)
+**Pérez-Luque, A.J.** & Ros-Candeira, A.  Compartiendo datos en Ecología: cómo añadir más valor a los datos. *Ecosistemas*, 28 (3): 150–159. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7818/ECOS.1838)
 
-Ros-Candeira, A., **Pérez-Luque, A.J.**, Suárez-Muñoz, M., Bonet-García, F.J., Hódar, J.A., Giménez de Azcárate, F. & Ortega-Díaz, E.  Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain. *ZooKeys*, 852: 125–136.[{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3897/zookeys.852.28567)
+Ros-Candeira, A., **Pérez-Luque, A.J.**, Suárez-Muñoz, M., Bonet-García, F.J., Hódar, J.A., Giménez de Azcárate, F. & Ortega-Díaz, E.  Dataset of occurrence and incidence of pine processionary moth in Andalusia, south Spain. *ZooKeys*, 852: 125–136.[{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/zookeys.852.28567)
 
 ##### **2016**
-Malone, S.L., Tulbure, M.G., **Pérez-Luque, A.J.**, Assal, T.J., Bremer, L.L., Drucker, D.P., Hillis, V., Varela, S. & Goulden, M.L. Drought resistance across California ecosystems: Evaluating changes in carbon dynamics using satellite imagery. *Ecosphere*, 7 (11): e01561. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1002/ecs2.1561)
+Malone, S.L., Tulbure, M.G., **Pérez-Luque, A.J.**, Assal, T.J., Bremer, L.L., Drucker, D.P., Hillis, V., Varela, S. & Goulden, M.L. Drought resistance across California ecosystems: Evaluating changes in carbon dynamics using satellite imagery. *Ecosphere*, 7 (11): e01561. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1002/ecs2.1561)
 
-**Pérez-Luque, A.J.**, Bonet-García, F.J., Zamora, R., Barea-Azcón, J.M., Aspizua, R. & Sánchez-Gutiérrez, F.J.  Señales del cambio global en el sitio LTER-Sierra Nevada. *Ecosistemas*, 25 (1): 65–71. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2016.25-1.08)
+**Pérez-Luque, A.J.**, Bonet-García, F.J., Zamora, R., Barea-Azcón, J.M., Aspizua, R. & Sánchez-Gutiérrez, F.J.  Señales del cambio global en el sitio LTER-Sierra Nevada. *Ecosistemas*, 25 (1): 65–71. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2016.25-1.08)
 
-**Pérez-Luque, A.J.**, Barea-Azcón, J.M., Álvarez-Ruiz, L., Bonet-García, F.J. & Zamora, R.  Dataset of Passerine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain). *ZooKeys*, 552: 137–154. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3897/zookeys.552.6934)
+**Pérez-Luque, A.J.**, Barea-Azcón, J.M., Álvarez-Ruiz, L., Bonet-García, F.J. & Zamora, R.  Dataset of Passerine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain). *ZooKeys*, 552: 137–154. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/zookeys.552.6934)
 
-Rodríguez-Sanchez, F., **Pérez-Luque, A.J.**, Bartomeus, I. & Varela, S. Ciencia reproducible: qué, por qué, cómo? *Ecosistemas*, *25*(2), 83–92. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2016.25-2.11)
+Rodríguez-Sanchez, F., **Pérez-Luque, A.J.**, Bartomeus, I. & Varela, S. Ciencia reproducible: qué, por qué, cómo? *Ecosistemas*, *25*(2), 83–92. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2016.25-2.11)
 
 ##### **2015**
-**Pérez-Luque, A.J.**, Pérez-Pérez, R., Bonet-García, F.J. & Magaña, P.J.  An ontological system based on MODIS images to assess ecosystem functioning of Natura 2000 habitats: A case study for Quercus pyrenaica forests. *International Journal of Applied Earth Observation and Geoinformation*, 37: 142–151. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1016/j.jag.2014.09.003)
+**Pérez-Luque, A.J.**, Pérez-Pérez, R., Bonet-García, F.J. & Magaña, P.J.  An ontological system based on MODIS images to assess ecosystem functioning of Natura 2000 habitats: A case study for Quercus pyrenaica forests. *International Journal of Applied Earth Observation and Geoinformation*, 37: 142–151. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.jag.2014.09.003)
 
-**Pérez-Luque, A.J.**, Zamora, R., Bonet-García, F.J. & Pérez-Pérez, R.  Dataset of MIGRAME project (global change, altitudinal range shift and colonization of degraded habitats in Mediterranean mountains). *PhytoKeys*, 56: 61–81. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3897/phytokeys.56.5482)
+**Pérez-Luque, A.J.**, Zamora, R., Bonet-García, F.J. & Pérez-Pérez, R.  Dataset of MIGRAME project (global change, altitudinal range shift and colonization of degraded habitats in Mediterranean mountains). *PhytoKeys*, 56: 61–81. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/phytokeys.56.5482)
 
-Hódar, J.A., Torres-Muros, L., Zamora, R., **Pérez-Luque, A.J.** & Senhadji, K. No evidence of induced defence after defoliation in three pine species against an expanding pest, the pine processionary moth. *Forest Ecology and Management*, 356: 166–172. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1016/j.foreco.2015.07.022)
+Hódar, J.A., Torres-Muros, L., Zamora, R., **Pérez-Luque, A.J.** & Senhadji, K. No evidence of induced defence after defoliation in three pine species against an expanding pest, the pine processionary moth. *Forest Ecology and Management*, 356: 166–172. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.foreco.2015.07.022)
 
-Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Pérez-Pérez, R., Puerta-Piñero, C. & Zamora, R. Protected areas as elicitors of human well-being in a developed region: A new synthetic (socioeconomic) approach. *Biological Conservation*, 187: 221–229. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1016/j.biocon.2015.04.027)
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Pérez-Pérez, R., Puerta-Piñero, C. & Zamora, R. Protected areas as elicitors of human well-being in a developed region: A new synthetic (socioeconomic) approach. *Biological Conservation*, 187: 221–229. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.biocon.2015.04.027)
 
-**Pérez-Luque, A.J.**, Sánchez-Rojas, C.P., Zamora, R., Pérez-Pérez, R. & Bonet-García, F.J.  Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain). *PhytoKeys*, 46: 89–107. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3897/phytokeys.46.9116)
+**Pérez-Luque, A.J.**, Sánchez-Rojas, C.P., Zamora, R., Pérez-Pérez, R. & Bonet-García, F.J.  Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain). *PhytoKeys*, 46: 89–107. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/phytokeys.46.9116)
 
 ##### **2014**
-**Pérez-Luque, A.J.**, Bonet, F.J., Pérez-Pérez, R., Aspizua, R., Lorite, J. & Zamora, R.  Sinfonevada: Dataset of floristic diversity in Sierra Nevada forests (SE Spain). *PhytoKeys*, 35: 1–15. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.3897/phytokeys.35.6363)
+**Pérez-Luque, A.J.**, Bonet, F.J., Pérez-Pérez, R., Aspizua, R., Lorite, J. & Zamora, R.  Sinfonevada: Dataset of floristic diversity in Sierra Nevada forests (SE Spain). *PhytoKeys*, 35: 1–15. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/phytokeys.35.6363)
 
 ##### **2013**
-Bonet-García, F.J., Pérez-Pérez, R., Benito, B.M., **Pérez-Luque, A.J.** & Zamora, R.  Documentación de modelos y flujos de trabajo: El siguiente reto en el manejo de la información ecológica. *Ecosistemas*, 22 (3): 37–45. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2013.22-3.06)
+Bonet-García, F.J., Pérez-Pérez, R., Benito, B.M., **Pérez-Luque, A.J.** & Zamora, R.  Documentación de modelos y flujos de trabajo: El siguiente reto en el manejo de la información ecológica. *Ecosistemas*, 22 (3): 37–45. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7818/ECOS.2013.22-3.06)
 
-Navarro-González, I., **Pérez-Luque, A.J.**, Bonet-García, F.J. & Zamora, R. The weight of the past: Land-use legacies and recolonization of pine plantations by oak trees. *Ecological Applications*, 23 (6): 1267–1276. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1890/12-0459.1)
+Navarro-González, I., **Pérez-Luque, A.J.**, Bonet-García, F.J. & Zamora, R. The weight of the past: Land-use legacies and recolonization of pine plantations by oak trees. *Ecological Applications*, 23 (6): 1267–1276. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1890/12-0459.1)
 
 ## **Books and Chapters** 
 ### **Books**
 ##### **2022**  
-Zamora, R. Barea-Azcón, J.M., **Pérez-Luque, A.J.**, García, D., Aspizua, R., Cano-Manuel, F.J. *Los enebrales de la alta montaña de Sierra Nevada: conservación y restauración*. Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Junta de Andalucía.. Granada (Spain). 89 pp. DL: GR 573-2022. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/73929)
+Zamora, R. Barea-Azcón, J.M., **Pérez-Luque, A.J.**, García, D., Aspizua, R., Cano-Manuel, F.J. *Los enebrales de la alta montaña de Sierra Nevada: conservación y restauración*. Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Junta de Andalucía.. Granada (Spain). 89 pp. DL: GR 573-2022. [{{< fa link size=lg >}}](http://hdl.handle.net/10481/73929)
 
 ##### **2021**
 **Pérez-Luque, A.J.**; Aspizua, R., Barea-Azcón, J.M., Cano-Manuel, F.J., Zamora, R. *Manual de gestión de robledales de* Quercus pyrenaica *en un contexto de cambio global*. Valoración de servicios ecosistémicos. Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible. Junta de Andalucía.. Granada (Spain). 112 pp. 
 ISBN: 978-84-8474-305-7. 
 
 ##### **2016** 
-Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. *Global change impacts in Sierra Nevada: challenges for conservation*. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 978-84-338-5960-0. DL: GR 1122-2016. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54682)
+Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. *Global change impacts in Sierra Nevada: challenges for conservation*. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 978-84-338-5960-0. DL: GR 1122-2016. [{{< fa link size=lg >}}](http://hdl.handle.net/10481/54682)
 
 ##### **2015**  
-Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. *La huella del cambio global en Sierra Nevada: retos para la conservación*. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 9788433858146. DL: GR 1308-2015. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54646)
+Zamora, R., **Pérez-Luque, A.J.**, Bonet-García, F.J., Barea-Azcón, J.M., Aspizua, R. *La huella del cambio global en Sierra Nevada: retos para la conservación*. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). 208 pp. ISBN: 9788433858146. DL: GR 1308-2015. [{{< fa link size=lg >}}](http://hdl.handle.net/10481/54646)
 
 ##### **2014**  
-Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J., **Pérez-Luque, A.J.**, Zamora, R. *Sierra Nevada Global-Change Observatory. Monitoring methodologies*. Consejería de Medio Ambiente, Junta de Andalucía. Sevilla (Spain). 112 pp. ISBN: 9788492807871. DL: SE 152-2014. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54684)
+Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J., **Pérez-Luque, A.J.**, Zamora, R. *Sierra Nevada Global-Change Observatory. Monitoring methodologies*. Consejería de Medio Ambiente, Junta de Andalucía. Sevilla (Spain). 112 pp. ISBN: 9788492807871. DL: SE 152-2014. [{{< fa link size=lg >}}](http://hdl.handle.net/10481/54684)
 
 ##### **2012**  
-Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J., **Pérez-Luque, A.J.**, Zamora, R. *Observatorio de Cambio Global de Sierra Nevada: metodologías de seguimiento*. Consejería de Medio Ambiente, Junta de Andalucía. Granada (Spain). 112 pp. ISBN: 9788492807789. DL: GR 790-2012. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54683)
+Aspizua, R., Barea-Azcón, J.M., Bonet-García, F.J., **Pérez-Luque, A.J.**, Zamora, R. *Observatorio de Cambio Global de Sierra Nevada: metodologías de seguimiento*. Consejería de Medio Ambiente, Junta de Andalucía. Granada (Spain). 112 pp. ISBN: 9788492807789. DL: GR 790-2012. [{{< fa link size=lg >}}](http://hdl.handle.net/10481/54683)
 
 ##### **2010**  
-Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. *Sierra Nevada Global Change Observatory. Structure and basic data*. Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. DL: GR 4643-2010. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54686)
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. *Sierra Nevada Global Change Observatory. Structure and basic data*. Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. DL: GR 4643-2010. [{{< fa link size=lg >}}](http://hdl.handle.net/10481/54686)
 
-Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. *Observatorio de cambio global en Sierra Nevada. Estructura y contenidos básicos.* Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/54685)
+Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. *Observatorio de cambio global en Sierra Nevada. Estructura y contenidos básicos.* Consejería de Medio Ambiente, Junta de Andalucía - Universidad de Granada. Granada (Spain). 48 pp. [{{< fa link size=lg >}}](http://hdl.handle.net/10481/54685)
 
 ##### **2005**  
 Gómez, J. Moreno, B. **Pérez-Luque, A.J.**, Castro, M. Pulido, E. *Recursos naturales de Córdoba 1. Setas.* Diputación de Córdoba. Córdoba (Spain). 128 pp. ISBN: 9788481541083.
 
 ### **Chapters**
 ##### **2022**
-Matías, L., **Pérez-Luque, A.J.** & Zamora, R. *Forest dynamics under land-use and climate change scenarios*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 213–228. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_13)
+Matías, L., **Pérez-Luque, A.J.** & Zamora, R. *Forest dynamics under land-use and climate change scenarios*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 213–228. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_13)
 
-Zamora, R., Hódar, J.A., **Pérez-Luque, A.J.**, Barea-Azcón, J.M. *Responses of animal populations and communities to climate change and land-use shifts*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 193–211. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_12)
+Zamora, R., Hódar, J.A., **Pérez-Luque, A.J.**, Barea-Azcón, J.M. *Responses of animal populations and communities to climate change and land-use shifts*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 193–211. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_12)
 
-Zamora, R., **Pérez-Luque, A.J.**, Granados, J.E., Ramos, B., Navarro, J., Cano-Manuel, J., Barea-Azcón, J.M., Aspízua, R.  *Managing the uniqueness of Sierra Nevada ecosystems under global change: the value of in situ scientific research*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 329–349. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_20)
+Zamora, R., **Pérez-Luque, A.J.**, Granados, J.E., Ramos, B., Navarro, J., Cano-Manuel, J., Barea-Azcón, J.M., Aspízua, R.  *Managing the uniqueness of Sierra Nevada ecosystems under global change: the value of in situ scientific research*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 329–349. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_20)
 
 ##### 2018  
 Zamora, R., **Pérez-Luque, A.J.** *Diseño de una actuación de restauración del enebral en la alta montaña de Sierra Nevada*. *In:* Titos, M., Luque-Martínez, T., Navarro-Llena, J.M. (eds) CIMAS: Actas del I Congreso Internacional de las montañas Sierra Nevada 2018. Editorial Universidad de Granada. Granada (Spain). pp 155-158. ISBN:978-84-338-6510-6. 
 
 ##### 2017  
-Zamora, R; **Pérez-Luque, A.J.**, Bonet-García, F.J. *Monitoring global change in high mountains*. *In:* Catalan, J. Ninot, J.M., Aniz, M.M. (eds) High mountain conservation in a changing world. Springer. Cham (Germany). pp 385-413. ISBN: 978-3319857961. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1007/978-3-319-55982-7_16)
+Zamora, R; **Pérez-Luque, A.J.**, Bonet-García, F.J. *Monitoring global change in high mountains*. *In:* Catalan, J. Ninot, J.M., Aniz, M.M. (eds) High mountain conservation in a changing world. Springer. Cham (Germany). pp 385-413. ISBN: 978-3319857961. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/978-3-319-55982-7_16)
 
 ##### 2016  
 Bonet-García, F.J., **Pérez-Luque, A.J.**, Pérez-Pérez, R. *Trend analysis (2000-2014) of the snow cover by satellite (MODIS sensor)*. *In:* Zamora, R., Pérez-Luque, A.J., Bonet-García, F.J., Barea-Azcόn, J.M., Aspízua, R. (eds) Global change impacts in Sierra Nevada: challenges for conservation. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 43–46. ISBN: 978-84-338-5960-0. 
@@ -150,7 +150,7 @@ Navarro-González, I; Bonet-García, F.J, **Pérez-Luque, A.J.** *Detailed chara
 Moreno-Llorca, R.A., Bonet-García, F.J., **Pérez-Luque, A.J.** *Assessment of the human footprint in Sierra Nevada*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Sierra Nevada Global Change Observatory. Monitoring methodologies. Consejería de Medio Ambiente y Ordenación del Territorio. Junta de Andalucía. Sevilla (Spain). pp 108-109. ISBN: 978-84-92807-87-1. 
 
 ##### 2013  
-Bonet-García, F.J., Pérez-Pérez, R.; **Pérez-Luque, A.J.**, Magaña-Redondo, P.J. *An ontological indicator system based on MODIS Images to detect changes in habitats functioning in Sierra Nevada (Spain) Natura 2000 Site*. *In:* Jekel, T., Car, A., Strobl, J., Griesebner, G (eds) GI_Forum 2013. Creating the GISociety. Herbert Wichmann Verlag, VDE VERLAG GMBH. Berlin (Germany). pp 496-499. ISBN: 978-3-7001-7438-7. [{{< ai doi size=xl color="#416ba3" >}}](https://doi.org/10.1553/giscience2013s496)
+Bonet-García, F.J., Pérez-Pérez, R.; **Pérez-Luque, A.J.**, Magaña-Redondo, P.J. *An ontological indicator system based on MODIS Images to detect changes in habitats functioning in Sierra Nevada (Spain) Natura 2000 Site*. *In:* Jekel, T., Car, A., Strobl, J., Griesebner, G (eds) GI_Forum 2013. Creating the GISociety. Herbert Wichmann Verlag, VDE VERLAG GMBH. Berlin (Germany). pp 496-499. ISBN: 978-3-7001-7438-7. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1553/giscience2013s496)
 
 ##### 2012  
 Navarro-González, I; Bonet-García, F.J, **Pérez-Luque, A.J.** *Cartografía histórica de la vegetación mediante ortofotos*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Observatorio de Cambio Global de Sierra Nevada. Metodologías de seguimiento. Consejería de Medio Ambiente. Junta de Andalucía. Granada (Spain). pp 16–17. ISBN:978-84-92807-78-9. 
@@ -160,7 +160,7 @@ Navarro-González, I; Bonet-García, F.J, **Pérez-Luque, A.J.** *Cartografía h
 Moreno-Llorca, R.A., Bonet-García, F.J., **Pérez-Luque, A.J.** *Evaluación de la huella humana en Sierra Nevada*. *In:* Aspízua, R; Barea-Azcόn, J.M.; Bonet-García, F.J., Pérez-Luque, A.J., Zamora, R. (eds) Observatorio de Cambio Global de Sierra Nevada. Metodologías de seguimiento. Consejería de Medio Ambiente. Junta de Andalucía. Granada (Spain). pp 108-109. ISBN:978-84-92807-78-9. 
 
 ## **PhD Thesis** 
-**Pérez-Luque, A.J.** (2022). Análisis de la dinámica de los robledales (*Quercus pyrenaica* Willd.) frente al cambio global en el límite sur de su distribución (Sierra Nevada). Universidad de Granada. [{{< fa file-pdf size=Huge >}}](https://digibug.ugr.es/bitstream/handle/10481/73618/69212%281%29.pdf?sequence=4&isAllowed=y) [{{< fa link size=Huge >}}](http://hdl.handle.net/10481/73618). ISBN: 9788411172592
+**Pérez-Luque, A.J.** (2022). Análisis de la dinámica de los robledales (*Quercus pyrenaica* Willd.) frente al cambio global en el límite sur de su distribución (Sierra Nevada). Universidad de Granada. [{{< fa file-pdf size=lg >}}](https://digibug.ugr.es/bitstream/handle/10481/73618/69212%281%29.pdf?sequence=4&isAllowed=y) [{{< fa link size=lg >}}](http://hdl.handle.net/10481/73618). ISBN: 9788411172592
 
 ## **Others** 
 
