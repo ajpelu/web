@@ -1,6 +1,6 @@
 ---
 title: "test"
-description: "Test the blog bla bla bla "
+description: "Under construction"
 author:
   - name: Antonio J. Pérez-Luque
     url: https://ajperezluque.com
