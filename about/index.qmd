@@ -7,7 +7,9 @@ toc: false
 fontawesome::fa_html_dependency()
 ```
 
-Currently I work as ecologist and applied remote sensing scientist studying the effects of disturbances on Mediterranean ecosystems in the Department of Mediterranean Pastures and Sylvopastoral Systems (Zaidín Experimental Station, Spanish National Research Council). Previously I worked at Laboratory of Ecology of Andalusian Institute for Earth System Research (2009-2021), involved in the Sierra Nevada Global Change Observatory and in the Sierra Nevada LTER-site. I also worked as freelance ecologist consultant, focusing on restoration projects and ecology of threatened species.
+Currently I work as ecologist and applied remote sensing scientist studying the effects of disturbances on Mediterranean Forests in the [Functional Ecology of Forest Tree Species](https://www.inia.es/en-en/Research/Forestry%20Research/Ecology%20and%20Genetics/Ecolog%C3%ADa%20funcional%20de%20especies%20forestales/Pages/Home.aspx) research group of the [Institute of Forest Sciences](https://www.inia.es/en-en/Research/Forestry%20Research/Pages/Home.aspx) (ICIFOR-INIA, Spanish National Research Council CSIC). Our interdisciplinary group consisting of people working in Ecophysiology, Dendroecology, Metabolomics and Remote Sensing. Our research aim to deepen our understanding of forest tree responses and adaptations to environmental conditions, particularly tree mortality and forest decline.
+
+Previously I worked at Department of Mediterranean Pastures and Sylvopastoral Systems (EEZ-CSIC) (2021-2023), and at Laboratory of Ecology of Andalusian Institute for Earth System Research (2009-2021), involved in the Sierra Nevada Global Change Observatory and in the Sierra Nevada LTER-site. I also worked as freelance ecologist consultant, focusing on restoration projects and ecology of threatened species.
 
 ### education
 
@@ -38,7 +40,10 @@ Currently I work as ecologist and applied remote sensing scientist studying the 
 ### experience
 
 <div class="topbr">
-<p class="custom-subtitle">`r fontawesome::fa("chalkboard-teacher", fill = "#416ba3", a11y = "sem")` **PostDoctoral Remote Sensing, 2021-2023**</p>   
+<p class="custom-subtitle">`r fontawesome::fa("chalkboard-teacher", fill = "#416ba3", a11y = "sem")` **Juan de la Cierva PostDoctoral Fellowship - Remote Sensing, 2024-present**</p>   
+<p class="custom-subtitle2">Institute of Forest Sciences (ICIFOR-INIA CSIC), Spanish Council for Scientific Research</p>
+
+<p class="custom-subtitle">`r fontawesome::fa("chalkboard-teacher", fill = "#416ba3", a11y = "sem")` **PostDoctoral Researcher, 2021-2023**</p>   
 <p class="custom-subtitle2">Estación Experimental del Zaidín (EEZ-CSIC) Spanish Council for Scientific Research</p>  
 
 <p class="custom-subtitle">`r fontawesome::fa("chart-bar", fill = "#416ba3", a11y = "sem")` **Hired Researcher, 2015-2021**</p>    
