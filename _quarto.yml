@@ -26,19 +26,17 @@ website:
         text: "{{< fa flask >}} Lab's notebooks"
       - icon: github
         href: https://github.com/ajpelu
-      - icon: twitter
+      - icon: twitter-x
         href: https://twitter.com/ajpelu
 
 
   page-footer: 
     background: light
     left: 
-      - "Copyright 2023, Antonio J. Pérez-Luque"
+      - "Copyright 2024, Antonio J. Pérez-Luque"
     right: 
       - icon: github
         href: https://github.com/ajpelu
-      - icon: twitter
-        href: https://twitter.com/ajpelu
 
 format:
   html:
