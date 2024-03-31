@@ -7,6 +7,10 @@ Data is one of the valuable products of science. Their preservation, accessibili
 
 I strongly believe in the importance of sharing well documented data allowing their re-using, and therefore to advance in the scientific knowledge. My litle contribution is to include here a list of the datasets (and also Data Paper) that we (others collaborators and me) are deposited and published in different institutional repositories. 
 
+### 2023
+- **Pérez-Luque, A.J.**; Tognetti Barbieri, M.J.; Ramos-Font, M.E.; Robles-Cruz, A.B. (2023). Monitoring grazing patterns in Andalusia Natural protected areas. [doi: 10.5281/zenodo.10672141](https://doi.org/10.5281/zenodo.10672141). Data in [MoveBank](https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study3088763011)
+
+- **Pérez-Luque, A.J.**; Ramos-Font, M.E.; Tognetti M.J., Montoya-Román C.; Tribaldos-Anda C.; Robles Cruz A.B. Monitoring data on the effect of domestic livestock and rabbits on Androcymbium europaeum pastures. Version 2.4. Estación Experimental del Zaidín (CSIC). Repository: GBIF. [doi: 10.15470/jpjhuu](https://doi.org/10.15470/jpjhuu). [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.15470/jpjhuu)
 
 ### 2021
               

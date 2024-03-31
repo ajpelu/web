@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.4.552">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -49,7 +49,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -58,8 +64,10 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -69,12 +77,11 @@ ul.task-list li input[type="checkbox"] {
 
 <body class="nav-fixed">
 
-
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Antonio J. Pérez-Luque</span>
     </a>
@@ -86,47 +93,47 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html" rel="" target="">
- <span class="menu-text"><i class="fa-solid fa-book-open" aria-label="book-open"></i> Publications</span></a>
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text"><i class="fa-solid fa-book-open" aria-label="book-open"></i> Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="" target="">
- <span class="menu-text"><i class="fa-solid fa-chart-line" aria-label="chart-line"></i> Projects</span></a>
+    <a class="nav-link" href="./projects.html"> 
+<span class="menu-text"><i class="fa-solid fa-chart-line" aria-label="chart-line"></i> Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html" rel="" target="">
- <span class="menu-text"><i class="fa-solid fa-feather-pointed" aria-label="feather-pointed"></i> Blog</span></a>
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text"><i class="fa-solid fa-feather-pointed" aria-label="feather-pointed"></i> Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./software.html" rel="" target="">
- <span class="menu-text"><i class="fa-solid fa-gear" aria-label="gear"></i> Software</span></a>
+    <a class="nav-link" href="./software.html"> 
+<span class="menu-text"><i class="fa-solid fa-gear" aria-label="gear"></i> Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html" rel="" target="">
- <span class="menu-text"><i class="fa-solid fa-user-graduate" aria-label="user-graduate"></i> Teaching</span></a>
+    <a class="nav-link" href="./teaching.html"> 
+<span class="menu-text"><i class="fa-solid fa-user-graduate" aria-label="user-graduate"></i> Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./datasets.html" rel="" target="" aria-current="page">
- <span class="menu-text"><i class="fa-solid fa-table" aria-label="table"></i> Datasets</span></a>
+    <a class="nav-link active" href="./datasets.html" aria-current="page"> 
+<span class="menu-text"><i class="fa-solid fa-table" aria-label="table"></i> Datasets</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./labnotebooks.html" rel="" target="">
- <span class="menu-text"><i class="fa-solid fa-flask" aria-label="flask"></i> Lab’s notebooks</span></a>
+    <a class="nav-link" href="./labnotebooks.html"> 
+<span class="menu-text"><i class="fa-solid fa-flask" aria-label="flask"></i> Lab’s notebooks</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/ajpelu" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/ajpelu"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/ajpelu" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/ajpelu"> <i class="bi bi-twitter-x" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -139,13 +146,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2021</a></li>
-  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2020</a></li>
-  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2019</a></li>
-  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2018</a></li>
-  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2016</a></li>
-  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2015</a></li>
-  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6">2014</a></li>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2023</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2021</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2020</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3">2019</a></li>
+  <li><a href="#section-4" id="toc-section-4" class="nav-link" data-scroll-target="#section-4">2018</a></li>
+  <li><a href="#section-5" id="toc-section-5" class="nav-link" data-scroll-target="#section-5">2016</a></li>
+  <li><a href="#section-6" id="toc-section-6" class="nav-link" data-scroll-target="#section-6">2015</a></li>
+  <li><a href="#section-7" id="toc-section-7" class="nav-link" data-scroll-target="#section-7">2014</a></li>
   </ul>
 </nav>
     </div>
@@ -159,7 +167,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -167,19 +175,28 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p>Data is one of the valuable products of science. Their preservation, accessibility and reuse in ecology is crucial, given the importance of data sets for understanding complex ecological questions and/or solving emerging environmental problems (see <a href="https://doi.org/10.7818/ECOS.1838">here</a> for more info, in Spanish)</p>
 <p>I strongly believe in the importance of sharing well documented data allowing their re-using, and therefore to advance in the scientific knowledge. My litle contribution is to include here a list of the datasets (and also Data Paper) that we (others collaborators and me) are deposited and published in different institutional repositories.</p>
 <section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">2021</h3>
+<h3 class="anchored" data-anchor-id="section">2023</h3>
+<ul>
+<li><p><strong>Pérez-Luque, A.J.</strong>; Tognetti Barbieri, M.J.; Ramos-Font, M.E.; Robles-Cruz, A.B. (2023). Monitoring grazing patterns in Andalusia Natural protected areas. <a href="https://doi.org/10.5281/zenodo.10672141">doi: 10.5281/zenodo.10672141</a>. Data in <a href="https://www.movebank.org/cms/webapp?gwt_fragment=page=studies,path=study3088763011">MoveBank</a></p></li>
+<li><p><strong>Pérez-Luque, A.J.</strong>; Ramos-Font, M.E.; Tognetti M.J., Montoya-Román C.; Tribaldos-Anda C.; Robles Cruz A.B. Monitoring data on the effect of domestic livestock and rabbits on Androcymbium europaeum pastures. Version 2.4. Estación Experimental del Zaidín (CSIC). Repository: GBIF. <a href="https://doi.org/10.15470/jpjhuu">doi: 10.15470/jpjhuu</a>. <a href="https://doi.org/10.15470/jpjhuu"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></p></li>
+</ul>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2021</h3>
 <ul>
 <li><p><strong>Pérez-Luque, A.J.</strong> &amp; Zamora, R., <em>Hourly soil temperature data from Juniper-thicket ecosystems of Sierra Nevada LTER (Spain)</em>, Repository: DEIMS-LTER; B2SHARE. <a href="https://doi.org/10.23728/b2share.1b31cd1247b54ed383f3499cac398822">doi: 10.23728/b2share.1b31cd1247b54ed383f3499cac398822</a>. <a href="https://doi.org/10.23728/b2share.1b31cd1247b54ed383f3499cac398822"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></p></li>
 <li><p>Hódar, J.A.; Cayuela, L.; Heras, D.; <strong>Pérez-Luque, A.J.</strong>; &amp; Torres-Muros, L., <em>Data from: Expansion of elevational range in a forest pest: Can parasitoids track their hosts?</em>, Repository: FIGSHARE. <a href="https://doi.org/10.6084/m9.figshare.13385333.v1">doi: 10.6084/m9.figshare.13385333.v1</a>. <a href="https://doi.org/10.6084/m9.figshare.13385333.v1"><i class="ai  ai-figshare ai-lg" title="" style="color:#416ba3"></i></a></p></li>
 </ul>
 </section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2020</h3>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">2020</h3>
 <ul>
 <li><p><strong>Pérez-Luque, A.J.</strong>; Benito, B.M.; Bonet, F.J.; Zamora, R., <em>Data from: Ecological diversity within Rear-Edge: A Case Study from Mediterranean Quercus pyrenaica Willd.</em>, Repository: FIGSHARE. <a href="https://doi.org/10.6084/m9.figshare.13382969.v1">doi: 10.6084/m9.figshare.13382969.v1</a>. <a href="https://doi.org/10.6084/m9.figshare.13382969.v1"><i class="ai  ai-figshare ai-lg" title="" style="color:#416ba3"></i></a></p></li>
 <li><p><strong>Pérez-Luque, A.J.</strong>; Zamora, R. &amp; Barea-Azcón, J.M., <em>Data of seedling emergence and seedling survival of Mediterranean high mountain scrublands (Juniperus communis and Berberis hispanica) in Sierra Nevada (Spain). 2017-2020</em>, Repository: DEIMS-LTER; B2SHARE. <a href="https://doi.org/10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb">doi: 10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb</a>. <a href="https://doi.org/10.23728/b2share.1c48e5950ac94bdaa3fd725ce42ed9cb"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></p></li>
@@ -191,33 +208,33 @@ ul.task-list li input[type="checkbox"] {
 <li><p>Cazorla, B.P.; Cabello, J; Reyes, A; Guirado, E; Peñas, J.; <strong>Pérez-Luque, A.J.</strong> &amp; Alcaraz- Segura, D., <em>Ecosystem functioning and functional diversity of Sierra Nevada (SE Spain), Version 2. University of Almería and Granada</em>, Repository: PANGAEA. <a href="https://doi.org/10.1594/PANGAEA.924792">doi: 10.1594/PANGAEA.924792</a>. <a href="https://doi.org/10.1594/PANGAEA.924792"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></p></li>
 </ul>
 </section>
-<section id="section-2" class="level3">
-<h3 class="anchored" data-anchor-id="section-2">2019</h3>
+<section id="section-3" class="level3">
+<h3 class="anchored" data-anchor-id="section-3">2019</h3>
 <ul>
 <li><strong>Pérez-Luque, A.J.</strong>; Bonet-García, F.J. &amp; Zamora, R, <em>Map of Ecosystems Types in Sierra Nevada mountain (southern Spain)</em>, Repository: PANGAEA. <a href="https://doi.org/10.1594/PANGAEA.910176">doi: 10.1594/PANGAEA.910176</a>. <a href="https://doi.org/10.1594/PANGAEA.910176"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></li>
 </ul>
 </section>
-<section id="section-3" class="level3">
-<h3 class="anchored" data-anchor-id="section-3">2018</h3>
+<section id="section-4" class="level3">
+<h3 class="anchored" data-anchor-id="section-4">2018</h3>
 <ul>
 <li>Ros-Canderia, A.; <strong>Pérez-Luque, A.J.</strong>; Suárez-Muñoz, M.; Bonet-García, F.J.; &amp; Hódar, J.A., <em>Ocurrence dataset: Dataset of occurrence and incidence of pine processionary moth in Andalusia, South Spain.</em>, Repository: GBIF. <a href="https://doi.org/10.15470/s1mxjb">doi: 10.15470/s1mxjb</a>. <a href="https://doi.org/10.15470/s1mxjb"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></li>
 </ul>
 </section>
-<section id="section-4" class="level3">
-<h3 class="anchored" data-anchor-id="section-4">2016</h3>
+<section id="section-5" class="level3">
+<h3 class="anchored" data-anchor-id="section-5">2016</h3>
 <ul>
 <li>Barea-Azcón, J.M.; <strong>Pérez-Luque, A.J.</strong>; &amp; Bonet, F.J., <em>Ocurrence dataset: Dataset of Passer- ine bird communities in a Mediterranean high mountain (Sierra Nevada, Spain)</em>, Repository: GBIF. <a href="https://doi.org/10.15468/ow9noo">doi: 10.15468/ow9noo</a>. <a href="https://doi.org/10.15468/ow9noo"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></li>
 </ul>
 </section>
-<section id="section-5" class="level3">
-<h3 class="anchored" data-anchor-id="section-5">2015</h3>
+<section id="section-6" class="level3">
+<h3 class="anchored" data-anchor-id="section-6">2015</h3>
 <ul>
 <li><p><strong>Pérez-Luque, A.J.</strong>; Benito, B.M.; Pérez-Pérez, R.; Bonet, F.J. &amp; Zamora, R., <em>Ocurrence dataset: Dataset of Global Change, altitudinal range shift and colonization of degraded habitats in mediterranean mountains (MIGRAME)</em>, Repository: GBIF. <a href="https://doi.org/10.15470/orboj4">doi: 10.15470/orboj4</a>. <a href="https://doi.org/10.15470/orboj4"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></p></li>
 <li><p>Zamora, R.; &amp; <strong>Pérez-Luque, A.J.</strong>, <em>Ocurrence dataset: Dataset of Phenology of Mediterranean high-mountain meadows flora (Sierra Nevada, Spain)</em>, Repository: GBIF. <a href="https://doi.org/10.15468/qhqzub">doi: 10.15468/qhqzub</a>. <a href="https://doi.org/10.15468/qhqzub"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></p></li>
 </ul>
 </section>
-<section id="section-6" class="level3">
-<h3 class="anchored" data-anchor-id="section-6">2014</h3>
+<section id="section-7" class="level3">
+<h3 class="anchored" data-anchor-id="section-7">2014</h3>
 <ul>
 <li><strong>Pérez-Luque, A.J.</strong>; &amp; Bonet, F.J., <em>Ocurrence dataset: Sinfonevada: Dataset of Floristic diver- sity in Sierra Nevada forests (SE Spain)</em>, Repository: GBIF. <a href="https://doi.org/10.15468/4gpr7e">doi: 10.15468/4gpr7e</a>. <a href="https://doi.org/10.15468/4gpr7e"><i class="ai  ai-doi ai-lg" title="" style="color:#416ba3"></i></a></li>
 </ul>
@@ -305,10 +322,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/ajperezluque\.com\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -318,8 +352,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -331,7 +374,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -375,6 +541,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -400,6 +567,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -465,7 +658,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- Copyright 2023, Antonio J. Pérez-Luque
+ Copyright 2024, Antonio J. Pérez-Luque
   </li>  
 </ul>
     </div>   
@@ -480,16 +673,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </i> 
     </a>
   </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/ajpelu">
-      <i class="bi bi-twitter" role="img">
-</i> 
-    </a>
-  </li>  
 </ul>
     </div>
   </div>
 </footer>
+
 
 
 
