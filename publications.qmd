@@ -3,6 +3,13 @@ title: "Publications"
 page-layout: full
 ---
 ## **Articles**
+
+##### **2024**
+Lasa, A.V.; Fernández-González, A.J.; Villadas, P.J.; Mercado-Blanco, J.; **Pérez-Luque, A.J.**; Fernández-López, M. Mediterranean pine forest decline: a matter of root-associated microbiota and climate change. *Science of The Total Environment* 926: 171858. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.scitotenv.2024.171858).
+
+**Pérez-Luque, A.J.**; Ramos-Font, M. E., Tognetti Barbieri, M. J., Montoya Román, C., Tribaldos Anda, C., Cabezas-Arcas, F. M., González-Rebollar, J., & Robles, A. B. Monitoring data on the effect of domestic livestock and rabbits on Androcymbium europaeum (Lange) K. Richt. and its xerophytiques pastures for thirteen years. *Biodiversity Data Journal*, 12, e113943. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/BDJ.12.e113943)
+
+
 ##### **2023**
 
 **Pérez-Luque, A.J.** & Zamora, R. diveRpine: Diversification of pine plantations in Mediterranean mountains. An interactive R tool to help decision makers. *Ecological Indicators*, 147: 110021. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.ecolind.2023.110021)  
@@ -10,6 +17,8 @@ page-layout: full
 Barea-Azcón, J.M., **Pérez-Luque, A.J.**, Olivares, F.J., Guerrero, M., Galiana-García, M., Chaves, M.D., Olvera, M. & Munguira, M.L. Butterfly diversity, richness, and density patterns in Sierra Nevada (SE Spain): Conservation implications under a global change scenario. *Insect Conservation and Diversity*, 16 (2): 217-230. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/icad.12617)
 
 Cazorla, B.P., Cabello, J., Reyes, A., Guirado, E., Peñas, J., **Pérez-Luque, A.J.** & Alcaraz-Segura, D. A remote sensing-based dataset to characterize the ecosystem functioning and functional diversity in the Biosphere Reserve of Sierra Nevada (SE Spain). *Earth System Science Data Discussions*, 15 (4): 1871–1887. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.5194/essd-15-1871-2023) 
+
+Fernández-González, A.J.; Lasa, A.V.; Cobo-Díaz, J.F.; Villadas, P.J.; **Pérez-Luque, A.J.**; García-Rodríguez, F.M.; Tringe, S.G.; Fernández-López, M. Long-term persistence of three microbial wildfire biomarkers in forest soils. *Forests*, 14, 1383. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3390/f14071383)
 
 ##### **2022**
 **Pérez-Luque, A.J.**, Ramos-Font, M.E., Barbieri Tognetti, M.J., Tarragona Pérez, C., Calvo Renta, G. & Robles Cruz, A.B. Vegetation cover estimation in semi-arid shrublands after prescribed burning: Field-ground and drone image comparison. *Drones*, 6 (11): 370. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3390/drones6110370) [{{< fa file-pdf size=lg >}}](https://doi.org/10.3390/drones6110370) [{{< fa brands github size=lg >}}](https://serpam.github.io/rpasveg_alcontar/)
