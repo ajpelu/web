@@ -9,6 +9,10 @@ Lasa, A.V.; Fernández-González, A.J.; Villadas, P.J.; Mercado-Blanco, J.; **P�
 
 **Pérez-Luque, A.J.**; Ramos-Font, M. E., Tognetti Barbieri, M. J., Montoya Román, C., Tribaldos Anda, C., Cabezas-Arcas, F. M., González-Rebollar, J., & Robles, A. B. Monitoring data on the effect of domestic livestock and rabbits on Androcymbium europaeum (Lange) K. Richt. and its xerophytiques pastures for thirteen years. *Biodiversity Data Journal*, 12, e113943. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/BDJ.12.e113943)
 
+Sigro, J., Cisneros, M., **Pérez-Luque, A.J.**;, Perez-Martinez, C., & Vegas-Vilarrubia, T. Trends in temperature and precipitation at high and low elevations in the main mountain ranges of the Iberian Peninsula (1894–2020): The Sierra Nevada and the Pyrenees. *International Journal of Climatology*, 1–24. doi: 10.1002/joc.8487 [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1002/joc.8487 )
+
+Godoy-Sepúlveda, F.; Sanosa-Cols, P., Parra, S.A., Peña-Enguix, A., **Pérez-Luque, A.J.**; Ramos-Font, M. E., Robles, A.B., Tognetti Barbieri, M., González-Robles, A., Ravera, F., Ventura, M., &  Domínguez, P. Governance, mobility, and pastureland ecology. An aco-anthropological study of three pastoral commons in northeastern Andalusia. *Human Ecology*. doi: 10.1007/s10745-024-00495-4 [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/s10745-024-00495-4)
+
 
 ##### **2023**
 
