@@ -108,6 +108,9 @@ Bonet-García, F.J., **Pérez-Luque, A.J.**, Moreno-Llorca, R., Zamora, R. *Obse
 Gómez, J. Moreno, B. **Pérez-Luque, A.J.**, Castro, M. Pulido, E. *Recursos naturales de Córdoba 1. Setas.* Diputación de Córdoba. Córdoba (Spain). 128 pp. ISBN: 9788481541083.
 
 ### **Chapters**
+##### **2024**
+Zamora, R., Barea-Azcón, J. M., **Pérez-Luque, A.J.** , Aspizua Cantón, R., Ramos-Losada, B., & Cano Manuel, F. J. *Bases ecológicas para la restauración de los enebrales-piornales de la alta montaña mediterránea. Caso práctico 44. LIFE ADAPTAMED*. *In* I. Mola (Ed.), Restauración Ecológica: Ejemplos de bases técnicas y soluciones prácticas (pp. 453–457). Fundación Biodiversidad del Ministerio para la Transición Ecológica y Reto Demográfico. [{{< fa file-pdf size=lg >}}](https://ieeb.fundacion-biodiversidad.es/sites/default/files/44_life_adaptamed.pdf)
+
 ##### **2022**
 Matías, L., **Pérez-Luque, A.J.** & Zamora, R. *Forest dynamics under land-use and climate change scenarios*. *In*: Zamora, R., Oliva, M. (eds) The Landscape of the Sierra Nevada. Springer, Cham. pp 213–228. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/978-3-030-94219-9_13)
 
