@@ -4,6 +4,9 @@ page-layout: full
 ---
 ## **Articles**
 
+##### **2025**
+Lasa, A.V.; **Pérez-Luque, A.J.**; Fernández-López, M. Root-associated microbiota of decline-affected and asymptomatic *Pinus sylvestris* trees. Scienfitic Data 12: 891. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1038/s41597-025-05013-9).
+
 ##### **2024**
 Lasa, A.V.; Fernández-González, A.J.; Villadas, P.J.; Mercado-Blanco, J.; **Pérez-Luque, A.J.**; Fernández-López, M. Mediterranean pine forest decline: a matter of root-associated microbiota and climate change. *Science of The Total Environment* 926: 171858. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.scitotenv.2024.171858).
 
