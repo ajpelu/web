@@ -1,0 +1,25 @@
+---
+title: "likelihoodTools"
+description: "likelihoodTools" 
+categories:
+    - R package
+    - Stats
+    - Likelihood
+    - Modelling
+image: logo-likelihoodtools.png
+title-block-style: none
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+priority: 1
+citation:
+  citation-key: PerezLuque2025
+  type: article-journal
+  title: "likelihoodTools: Managing Results from Maximum Likelihood Estimation"
+  author: "Pérez-Luque, A.J."
+  container-title: R package version 1.0.0
+  issued: 2025
+  doi: 10.32614/cran.package.likelihoodtools
+---
+
+The [likelihoodTools](https://ajpelu.github.io/likelihoodTools/) R package is built to make working with Maximum Likelihood Estimation (MLE) outputs from [likelihood](https://cran.r-project.org/package=likelihood) package more accessible. Extending the functionality of the likelihood package, it offers a suite of functions to organize, visualize, and summarize parameter estimates. By streamlining these tasks, likelihoodTools helps researchers move more easily from raw estimation results to meaningful statistical insights.
+
+Please see the [website](https://ajpelu.github.io/likelihoodTools/) with starting tutorials or download it from [CRAN-R](https://cran.r-project.org/web/packages/likelihoodTools/index.html) ([10.32614/CRAN.package.likelihoodTools](https://doi.org/10.32614/CRAN.package.likelihoodTools))
