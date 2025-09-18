@@ -1,0 +1,30 @@
+---
+title: "famexplorer"
+description: "famexploreR: a workflow for monitoring threatened plant species" 
+categories:
+    - R package
+    - Plant Conservation
+    - Monitoring
+    - Threathened flora 
+    - Shiny
+image: logo-famexplorer.png
+title-block-style: none
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+priority: 1
+citation:
+  citation-key: PerezLuqueLorite2024
+  type: software
+  title: "famexploreR: a workflow for monitoring threatened plant species"
+  author: 
+    - A.J. Pérez-Luque
+    - J. Lorite
+  container-title: "R package version 1.0.0"
+  issued: 2024
+  url: "https://doi.org/10.5281/zenodo.13952463"
+---
+
+[famexploreR](https://ajpelu.github.io/famexploreR/) is a workflow designed to support technical staff involved in plant conservation by streamlining the monitoring of threatened flora and the management of field data. It combines a set of tailored R functions with an interactive Shiny application that enables users to compute key variables and indices (such as species richness, diversity, neighborhood analysis, and trait exploration), as well as visualize monitoring data on maps.
+
+The workflow has been specifically developed to address plant monitoring programs in Andalusia (southern Spain), but thanks to its modular design it can be customized and extended to fit other conservation initiatives. The application is built to be accessible: practitioners without advanced statistical or programming skills can quickly generate clear reports and graphics to guide management planning and conservation decisions.
+
+The package is written in Spanish, but if you would like more information, please don’t hesitate to get in touch.

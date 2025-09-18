@@ -6,6 +6,7 @@ categories:
     - Pine plantation
     - Mediterranean mountain
     - Adaptive Management
+    - Shiny
 image: logo-diverpine.png
 title-block-style: none
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!

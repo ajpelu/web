@@ -67,5 +67,8 @@
   },
   "software/likelihoodTools/index.qmd": {
     "index.html": "8dd03fd9"
+  },
+  "software/famexplorer/index.qmd": {
+    "index.html": "3fa6b0e6"
   }
 }

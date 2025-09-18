@@ -17,6 +17,7 @@
     "listing": "/software.html",
     "items": [
       "/software/likelihoodTools/index.html",
+      "/software/famexplorer/index.html",
       "/software/diveRpine/index.html",
       "/software/datefixeR/index.html"
     ]
