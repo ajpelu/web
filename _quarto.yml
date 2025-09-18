@@ -26,9 +26,8 @@ website:
         text: "{{< fa flask >}} Lab's notebooks"
       - icon: github
         href: https://github.com/ajpelu
-      - icon: twitter-x
-        href: https://twitter.com/ajpelu
-
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/ajpelu.bsky.social
 
   page-footer: 
     background: light
