@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/software.html",
+    "items": [
+      "/software/likelihoodTools/index.html",
+      "/software/famexplorer/index.html",
+      "/software/diveRpine/index.html",
+      "/software/datefixeR/index.html"
+    ]
+  },
+  {
     "listing": "/teaching.html",
     "items": [
       "/teaching/2023_ecoinformatics/index.html"
@@ -11,15 +20,6 @@
       "/projects/adaptamed/index.html",
       "/projects/obsnev/index.html",
       "/projects/sumhal/index.html"
-    ]
-  },
-  {
-    "listing": "/software.html",
-    "items": [
-      "/software/likelihoodTools/index.html",
-      "/software/famexplorer/index.html",
-      "/software/diveRpine/index.html",
-      "/software/datefixeR/index.html"
     ]
   },
   {

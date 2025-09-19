@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ajperezluque.com/teaching.html</loc>
-    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/posts/2022-11-23-test/index.html</loc>
-    <lastmod>2023-05-24T10:12:01.473Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/projects/adaptamed/index.html</loc>
-    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/projects/obsnev/index.html</loc>
-    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/projects/sumhal/index.html</loc>
-    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/labnotebooks.html</loc>
-    <lastmod>2023-05-24T10:04:06.165Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/about/index.html</loc>
-    <lastmod>2024-03-31T21:58:32.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/projects.html</loc>
-    <lastmod>2025-09-18T18:47:30.453Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/index.html</loc>
-    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/software/diveRpine/index.html</loc>
-    <lastmod>2025-09-18T19:30:12.275Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/software/datefixeR/index.html</loc>
-    <lastmod>2023-05-24T10:04:12.343Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/publications.html</loc>
-    <lastmod>2025-09-18T18:43:52.254Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/software.html</loc>
-    <lastmod>2025-09-18T19:30:27.373Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ajperezluque.com/teaching/2023_ecoinformatics/index.html</loc>
+    <loc>https://ajperezluque.com/test.html</loc>
     <lastmod>2023-05-24T09:56:40.000Z</lastmod>
   </url>
   <url>
@@ -61,23 +9,71 @@
     <lastmod>2024-03-31T22:18:03.220Z</lastmod>
   </url>
   <url>
-    <loc>https://ajperezluque.com/posts.html</loc>
-    <lastmod>2025-07-11T12:37:06.164Z</lastmod>
+    <loc>https://ajperezluque.com/software.html</loc>
+    <lastmod>2025-09-18T19:30:27.373Z</lastmod>
   </url>
   <url>
-    <loc>https://ajperezluque.com/test.html</loc>
-    <lastmod>2023-05-24T10:04:17.433Z</lastmod>
+    <loc>https://ajperezluque.com/software/datefixeR/index.html</loc>
+    <lastmod>2025-09-19T07:39:27.847Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/software/famexplorer/index.html</loc>
+    <lastmod>2025-09-18T19:30:04.627Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/index.html</loc>
+    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/about/index.html</loc>
+    <lastmod>2024-03-31T21:58:32.277Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/projects/sumhal/index.html</loc>
+    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/projects/adaptamed/index.html</loc>
+    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/teaching.html</loc>
+    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
   </url>
   <url>
     <loc>https://ajperezluque.com/posts/2025-07-11-chelsea-climate/index.html</loc>
     <lastmod>2025-07-11T12:36:47.357Z</lastmod>
   </url>
   <url>
+    <loc>https://ajperezluque.com/projects/obsnev/index.html</loc>
+    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/labnotebooks.html</loc>
+    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/projects.html</loc>
+    <lastmod>2025-09-18T18:47:30.453Z</lastmod>
+  </url>
+  <url>
     <loc>https://ajperezluque.com/software/likelihoodTools/index.html</loc>
     <lastmod>2025-09-18T19:02:32.710Z</lastmod>
   </url>
   <url>
-    <loc>https://ajperezluque.com/software/famexplorer/index.html</loc>
-    <lastmod>2025-09-18T19:30:04.627Z</lastmod>
+    <loc>https://ajperezluque.com/software/diveRpine/index.html</loc>
+    <lastmod>2025-09-18T19:30:12.275Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/publications.html</loc>
+    <lastmod>2025-09-18T18:43:52.254Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/teaching/2023_ecoinformatics/index.html</loc>
+    <lastmod>2023-05-24T09:56:40.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ajperezluque.com/posts.html</loc>
+    <lastmod>2025-07-11T12:37:06.164Z</lastmod>
   </url>
 </urlset>

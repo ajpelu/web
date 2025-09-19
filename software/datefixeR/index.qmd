@@ -4,7 +4,6 @@ description: "Standardize Dates in Different Formats or with Missing Data"
 categories:
     - R package
     - Data standardization
-    - 
 image: logo_datefixr.png
 title-block-style: none
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
