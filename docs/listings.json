@@ -1,17 +1,8 @@
 [
   {
-    "listing": "/software.html",
+    "listing": "/posts.html",
     "items": [
-      "/software/likelihoodTools/index.html",
-      "/software/famexplorer/index.html",
-      "/software/diveRpine/index.html",
-      "/software/datefixeR/index.html"
-    ]
-  },
-  {
-    "listing": "/teaching.html",
-    "items": [
-      "/teaching/2023_ecoinformatics/index.html"
+      "/posts/2025-07-11-chelsea-climate/index.html"
     ]
   },
   {
@@ -23,9 +14,18 @@
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/teaching.html",
     "items": [
-      "/posts/2025-07-11-chelsea-climate/index.html"
+      "/teaching/2023_ecoinformatics/index.html"
+    ]
+  },
+  {
+    "listing": "/software.html",
+    "items": [
+      "/software/likelihoodTools/index.html",
+      "/software/famexplorer/index.html",
+      "/software/diveRpine/index.html",
+      "/software/datefixeR/index.html"
     ]
   }
 ]
