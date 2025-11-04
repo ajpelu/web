@@ -2,9 +2,9 @@
 title: "software"
 listing:
   contents: software
-  type: grid
+  type: default
   grid-columns: 3
-  image-height: 250px
+  image-height: 130px
   page-size: 100
   max-description-length: 175
   categories: true

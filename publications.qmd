@@ -4,15 +4,20 @@ page-layout: full
 ---
 ## **Articles**
 
+
 ##### **2025**
-Lasa, A.V.; **Pérez-Luque, A.J.**; Fernández-López, M. Root-associated microbiota of decline-affected and asymptomatic *Pinus sylvestris* trees. Scienfitic Data 12: 891. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1038/s41597-025-05013-9).
+
+
+Mosig, C., Vajna-Jehle, J., Mahecha, M. D., Hartmann, H., ..., **Pérez-Luque, A.J.**; ... Kattenborn, T. deadtrees.earth — An open-access and interactive database for centimeter-scale aerial imagery to uncover global tree mortality dynamics. Remote Sensing of Environment, 332(115027), 115027. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.rse.2025.115027)
+
+Lasa, A.V.; **Pérez-Luque, A.J.**; Fernández-López, M. Root-associated microbiota of decline-affected and asymptomatic *Pinus sylvestris* trees. Scienfitic Data 12: 891. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1038/s41597-025-05013-9)
 
 ##### **2024**
-Lasa, A.V.; Fernández-González, A.J.; Villadas, P.J.; Mercado-Blanco, J.; **Pérez-Luque, A.J.**; Fernández-López, M. Mediterranean pine forest decline: a matter of root-associated microbiota and climate change. *Science of The Total Environment* 926: 171858. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.scitotenv.2024.171858).
+Lasa, A.V.; Fernández-González, A.J.; Villadas, P.J.; Mercado-Blanco, J.; **Pérez-Luque, A.J.**; Fernández-López, M. Mediterranean pine forest decline: a matter of root-associated microbiota and climate change. *Science of The Total Environment* 926: 171858. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.scitotenv.2024.171858)
 
 **Pérez-Luque, A.J.**; Ramos-Font, M. E., Tognetti Barbieri, M. J., Montoya Román, C., Tribaldos Anda, C., Cabezas-Arcas, F. M., González-Rebollar, J., & Robles, A. B. Monitoring data on the effect of domestic livestock and rabbits on Androcymbium europaeum (Lange) K. Richt. and its xerophytiques pastures for thirteen years. *Biodiversity Data Journal*, 12, e113943. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.3897/BDJ.12.e113943)
 
-Sigro, J., Cisneros, M., **Pérez-Luque, A.J.**;, Perez-Martinez, C., & Vegas-Vilarrubia, T. Trends in temperature and precipitation at high and low elevations in the main mountain ranges of the Iberian Peninsula (1894–2020): The Sierra Nevada and the Pyrenees. *International Journal of Climatology*, 44(9): 2897-2920. doi: 10.1002/joc.8487 [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1002/joc.8487 )
+Sigro, J., Cisneros, M., **Pérez-Luque, A.J.**;, Perez-Martinez, C., & Vegas-Vilarrubia, T. Trends in temperature and precipitation at high and low elevations in the main mountain ranges of the Iberian Peninsula (1894–2020): The Sierra Nevada and the Pyrenees. *International Journal of Climatology*, 44(9): 2897-2920. doi: 10.1002/joc.8487 [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1002/joc.8487)
 
 Godoy-Sepúlveda, F.; Sanosa-Cols, P., Parra, S.A., Peña-Enguix, A., **Pérez-Luque, A.J.**; Ramos-Font, M. E., Robles, A.B., Tognetti Barbieri, M., González-Robles, A., Ravera, F., Ventura, M., &  Domínguez, P. Governance, mobility, and pastureland ecology. An aco-anthropological study of three pastoral commons in northeastern Andalusia. *Human Ecology*. doi: 10.1007/s10745-024-00495-4 [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1007/s10745-024-00495-4)
 
