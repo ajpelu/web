@@ -1,23 +1,2 @@
 /* css styles */
 
-/* Asegura que el contenedor no recorte */
-.quarto-listing .listing-image,
-.quarto-grid .listing-image,
-.quarto-listing .thumbnail {
-  overflow: visible !important;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 150px; /* mismo valor que en el YAML */
-}
-
-/* Ajusta la imagen sin fondo */
-.quarto-listing .listing-image img,
-.quarto-grid .listing-image img,
-.quarto-listing .thumbnail img {
-  max-height: 100%;
-  width: auto;
-  object-fit: contain !important;
-  background: transparent !important; 
-  box-shadow: none; /* opcional, por si el tema agrega sombras */
-}
