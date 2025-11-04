@@ -1,17 +1,45 @@
 ---
 title: "Teaching & Talks"
-listing:
-  contents: teaching
-  type: grid
-  grid-columns: 3
-  image-height: 250px
-  page-size: 100
-  max-description-length: 175
-  categories: true
-  sort-ui: false
-  filter-ui: false
-  sort: "date desc"
-  grid-item-border: true
-page-layout: full
-title-block-banner: false
----
+--- 
+
+
+# Speciealized Courses
+## 2025
+### Standardization, documentation, and publication of biodiversity monitoring data
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+[![](/images/dp_gbif2025.png)](https://gbif.es/talleres/taller-gbif-es-estandarizacion-documentacion-y-publicacion-de-datos-de-programas-de-seguimiento-de-biodiversidad/)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+GBIF.ES workshop on the standardization, documentation, and publication of biodiversity monitoring data focused on promoting open, FAIR data practices for ecological research and conservation. 
+I teached to the module on data paper publication.
+
+**Date**: 2025-10-28 to 2025-10-30 </br>
+**Place**: University of Sevilla (Sevilla, Spain)
+:::
+
+:::
+
+## 2023
+### Standardization and publication of marine biodiversity data 
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-2}
+[![](/images/gbifes.png)](https://gbif.es/talleres/estandarizacion-publicacion-datos-marinos/)
+
+:::
+
+::: {.g-col-12 .g-col-md-10}
+
+This workshop addressed the standardization and publication of marine biodiversity data through GBIF and scientific journals, promoting open and FAIR data practices. I participated in the session on data paper publication.
+
+**Date**: 2023-03-21 to 2023-03-22 </br>
+**Place**: Node GBIF-Spain, CSIC, Madrid
+:::
+
+:::
+
