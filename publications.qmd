@@ -5,10 +5,13 @@ page-layout: full
 ## **Articles**
 
 
+##### **2026**
+Mosig, C., Vajna-Jehle, J., Mahecha, M. D., Hartmann, H., ..., **Pérez-Luque, A.J.**; ... Kattenborn, T. deadtrees.earth — An open-access and interactive database for centimeter-scale aerial imagery to uncover global tree mortality dynamics. Remote Sensing of Environment, 332(115027), 115027. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.rse.2025.115027)
+
+
 ##### **2025**
 
-
-Mosig, C., Vajna-Jehle, J., Mahecha, M. D., Hartmann, H., ..., **Pérez-Luque, A.J.**; ... Kattenborn, T. deadtrees.earth — An open-access and interactive database for centimeter-scale aerial imagery to uncover global tree mortality dynamics. Remote Sensing of Environment, 332(115027), 115027. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.rse.2025.115027)
+Gea‐Izquierdo, G.; Fernández De Simón, M. B.; Sánchez‐Gómez, D.; Martin‐Benito, D.; **Pérez-Luque, A.J.**; Muiño, I., & Aranda, I. High metabolic sensitivity to hot drought in two declining pine species with constrained physiology. Functional Ecology, 1365-2435.70217. doi: 10.1111/1365-2435.70217 [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/1365-2435.70217)
 
 Lasa, A.V.; **Pérez-Luque, A.J.**; Fernández-López, M. Root-associated microbiota of decline-affected and asymptomatic *Pinus sylvestris* trees. Scienfitic Data 12: 891. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1038/s41597-025-05013-9)
 
