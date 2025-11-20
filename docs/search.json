@@ -193,7 +193,7 @@
     "href": "software.html",
     "title": "software",
     "section": "",
-    "text": "likelihoodTools\n\n\n\n\n\n\nR package\n\n\nStats\n\n\nLikelihood\n\n\nModelling\n\n\n\nlikelihoodTools\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfamexplorer\n\n\n\n\n\n\nR package\n\n\nPlant Conservation\n\n\nMonitoring\n\n\nThreathened flora\n\n\nShiny\n\n\n\nfamexploreR: a workflow for monitoring threatened plant species\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndiveRpine\n\n\n\n\n\n\nR package\n\n\nPine plantation\n\n\nMediterranean mountain\n\n\nAdaptive Management\n\n\nShiny\n\n\n\ndiveRpine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndatefixeR\n\n\n\n\n\n\nR package\n\n\nData standardization\n\n\n\nStandardize Dates in Different Formats or with Missing Data\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "likelihoodTools\n\n\n\n\n\n\nR package\n\n\nStats\n\n\nLikelihood\n\n\nModelling\n\n\n\nlikelihoodTools\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmappestRisk\n\n\n\n\n\n\nR package\n\n\nPest\n\n\nMap\n\n\nRisk\n\n\n\nmappestRisk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nfamexplorer\n\n\n\n\n\n\nR package\n\n\nPlant Conservation\n\n\nMonitoring\n\n\nThreathened flora\n\n\nShiny\n\n\n\nfamexploreR: a workflow for monitoring threatened plant species\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndiveRpine\n\n\n\n\n\n\nR package\n\n\nPine plantation\n\n\nMediterranean mountain\n\n\nAdaptive Management\n\n\nShiny\n\n\n\ndiveRpine\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ndatefixeR\n\n\n\n\n\n\nR package\n\n\nData standardization\n\n\n\nStandardize Dates in Different Formats or with Missing Data\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "datasets.html",
@@ -229,5 +229,12 @@
     "title": "Teaching & Talks",
     "section": "",
     "text": "This workshop addressed the standardization and publication of marine biodiversity data through GBIF and scientific journals, promoting open and FAIR data practices. I participated in the session on data paper publication.\nDate: 2023-03-21 to 2023-03-22  Place: Node GBIF-Spain, CSIC, Madrid"
+  },
+  {
+    "objectID": "software/mappestRisk/index.html",
+    "href": "software/mappestRisk/index.html",
+    "title": "mappestRisk",
+    "section": "",
+    "text": "The mappestRisk package streamlines the use of laboratory thermal‐biology data from arthropod crop pests to produce accessible, region-specific risk forecasts. It integrates both the fitting and selection of nonlinear thermal models and their projection onto climatic maps for pest assessment. By automating these steps, the package supports researchers who may not have the time or experience to develop advanced R workflows, making pest-risk forecasting more approachable and reproducible.\nPlease see the website with starting tutorials or download it from CRAN-R (10.32614/CRAN.package.mappestRisk)\n\n\n\nCitationBibTeX citation:@article{san-segundo_molina2025,\n  author = {San-Segundo Molina, D. and Barbosa, A. M. and Pérez-Luque,\n    A. J. and Rodríguez-Sánchez, F.},\n  title = {mappestRisk: {An} {R} Package for Modelling and Mapping Risk\n    of Pest Development Based on Known Thermal Limit},\n  journal = {R package version 1.0.0},\n  date = {2025},\n  url = {https://ecologyr.github.io/mappestRisk/},\n  doi = {10.32614/CRAN.package.mappestRisk},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSan-Segundo Molina, D., A. M. Barbosa, A. J. Pérez-Luque, and F.\nRodríguez-Sánchez. 2025. “mappestRisk: An R Package for Modelling\nand Mapping Risk of Pest Development Based on Known Thermal\nLimit.” R Package Version 1.0.0. https://doi.org/10.32614/CRAN.package.mappestRisk."
   }
 ]

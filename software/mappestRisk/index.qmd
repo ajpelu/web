@@ -1,0 +1,35 @@
+---
+title: "mappestRisk"
+description: "mappestRisk" 
+categories:
+    - R package
+    - Pest
+    - Map
+    - Risk
+image: logo-mappestrisk.png
+title-block-style: none
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+priority: 1
+citation:
+  citation-key: SanSegundo_etal2025
+  type: article-journal
+  title: "mappestRisk: An R package for modelling and mapping risk of pest development based on known thermal limit"
+  author:
+    - family: San-Segundo Molina
+      given: D.
+    - family: Barbosa
+      given: A. M.
+    - family: Pérez-Luque
+      given: A. J.
+    - family: Rodríguez-Sánchez
+      given: F.
+  container-title: R package version 1.0.0
+  issued: 2025
+  url: https://ecologyr.github.io/mappestRisk/
+  doi: 10.32614/CRAN.package.mappestRisk
+---
+
+The mappestRisk package streamlines the use of laboratory thermal‐biology data from arthropod crop pests to produce accessible, region-specific risk forecasts. It integrates both the fitting and selection of nonlinear thermal models and their projection onto climatic maps for pest assessment. By automating these steps, the package supports researchers who may not have the time or experience to develop advanced R workflows, making pest-risk forecasting more approachable and reproducible.
+
+Please see the [website](https://ecologyr.github.io/mappestRisk/) with starting tutorials or download it from [CRAN-R](https://cran.r-project.org/web/packages/mappestRisk/index.html) ([10.32614/CRAN.package.mappestRisk](https://doi.org/10.32614/CRAN.package.mappestRisk))
+

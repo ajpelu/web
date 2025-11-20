@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="mappestRisk">
 
-<title>software – Antonio J. Pérez-Luque</title>
+<title>mappestRisk – Antonio J. Pérez-Luque</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dd332121466f1b7f5fe90d2f069f888d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-<script src="site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-1ac6b8270293583f8244e003f65eca9a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/iconify-3.0.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,67 +70,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -141,7 +82,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Antonio J. Pérez-Luque</span>
     </a>
   </div>
@@ -152,31 +93,31 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../../publications.html"> 
 <span class="menu-text"><i class="fa-solid fa-book-open" aria-label="book-open"></i> Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="../../projects.html"> 
 <span class="menu-text"><i class="fa-solid fa-chart-line" aria-label="chart-line"></i> Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
+    <a class="nav-link" href="../../posts.html"> 
 <span class="menu-text"><i class="fa-solid fa-feather-pointed" aria-label="feather-pointed"></i> Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./software.html" aria-current="page"> 
+    <a class="nav-link" href="../../software.html"> 
 <span class="menu-text"><i class="fa-solid fa-gear" aria-label="gear"></i> Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
+    <a class="nav-link" href="../../teaching.html"> 
 <span class="menu-text"><i class="fa-solid fa-user-graduate" aria-label="user-graduate"></i> Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./datasets.html"> 
+    <a class="nav-link" href="../../datasets.html"> 
 <span class="menu-text"><i class="fa-solid fa-table" aria-label="table"></i> Datasets</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./labnotebooks.html"> 
+    <a class="nav-link" href="../../labnotebooks.html"> 
 <span class="menu-text"><i class="fa-solid fa-flask" aria-label="flask"></i> Lab’s notebooks</span></a>
   </li>  
   <li class="nav-item compact">
@@ -196,225 +137,43 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QWRhcHRpdmUlMjBNYW5hZ2VtZW50">Adaptive Management <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMHN0YW5kYXJkaXphdGlvbg==">Data standardization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TGlrZWxpaG9vZA==">Likelihood <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFw">Map <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWVkaXRlcnJhbmVhbiUyMG1vdW50YWlu">Mediterranean mountain <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9kZWxsaW5n">Modelling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TW9uaXRvcmluZw==">Monitoring <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGVzdA==">Pest <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGluZSUyMHBsYW50YXRpb24=">Pine plantation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGxhbnQlMjBDb25zZXJ2YXRpb24=">Plant Conservation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UiUyMHBhY2thZ2U=">R package <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Umlzaw==">Risk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2hpbnk=">Shiny <span class="quarto-category-count">(2)</span></div><div class="category" data-category="U3RhdHM=">Stats <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhyZWF0aGVuZWQlMjBmbG9yYQ==">Threathened flora <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">mappestRisk</h1></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">software</h1>
-</div>
-
-
-
-<div class="quarto-title-meta column-page-left">
-
-    
-  
-    
-  </div>
-  
+<header id="title-block-header">
 
 
 </header>
 
 
+<p>The mappestRisk package streamlines the use of laboratory thermal‐biology data from arthropod crop pests to produce accessible, region-specific risk forecasts. It integrates both the fitting and selection of nonlinear thermal models and their projection onto climatic maps for pest assessment. By automating these steps, the package supports researchers who may not have the time or experience to develop advanced R workflows, making pest-risk forecasting more approachable and reproducible.</p>
+<p>Please see the <a href="https://ecologyr.github.io/mappestRisk/">website</a> with starting tutorials or download it from <a href="https://cran.r-project.org/web/packages/mappestRisk/index.html">CRAN-R</a> (<a href="https://doi.org/10.32614/CRAN.package.mappestRisk">10.32614/CRAN.package.mappestRisk</a>)</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="UiUyMHBhY2thZ2UlMkNTdGF0cyUyQ0xpa2VsaWhvb2QlMkNNb2RlbGxpbmc=" data-listing-file-modified-sort="1758222152710" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
-<div class="thumbnail">
-<p><a href="./software/likelihoodTools/index.html" class="no-external"></a></p><a href="./software/likelihoodTools/index.html" class="no-external">
-<p><img loading="lazy" src="./software/likelihoodTools/logo-likelihoodtools.png" class="thumbnail-image" style="height: 130px;"></p>
-</a><p><a href="./software/likelihoodTools/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./software/likelihoodTools/index.html" class="no-external">likelihoodTools</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./software/likelihoodTools/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UiUyMHBhY2thZ2U='); return false;">
-R package
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('U3RhdHM='); return false;">
-Stats
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TGlrZWxpaG9vZA=='); return false;">
-Likelihood
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TW9kZWxsaW5n'); return false;">
-Modelling
-</div>
-</div>
-<div class="listing-description">
-<a href="./software/likelihoodTools/index.html" class="no-external">likelihoodTools</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./software/likelihoodTools/index.html" class="no-external"></a></p><a href="./software/likelihoodTools/index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="UiUyMHBhY2thZ2UlMkNQZXN0JTJDTWFwJTJDUmlzaw==" data-listing-file-modified-sort="1763635699646" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
-<div class="thumbnail">
-<p><a href="./software/mappestRisk/index.html" class="no-external"></a></p><a href="./software/mappestRisk/index.html" class="no-external">
-<p><img loading="lazy" src="./software/mappestRisk/logo-mappestrisk.png" class="thumbnail-image" style="height: 130px;"></p>
-</a><p><a href="./software/mappestRisk/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./software/mappestRisk/index.html" class="no-external">mappestRisk</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./software/mappestRisk/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UiUyMHBhY2thZ2U='); return false;">
-R package
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UGVzdA=='); return false;">
-Pest
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWFw'); return false;">
-Map
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Umlzaw=='); return false;">
-Risk
-</div>
-</div>
-<div class="listing-description">
-<a href="./software/mappestRisk/index.html" class="no-external">mappestRisk</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./software/mappestRisk/index.html" class="no-external"></a></p><a href="./software/mappestRisk/index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="UiUyMHBhY2thZ2UlMkNQbGFudCUyMENvbnNlcnZhdGlvbiUyQ01vbml0b3JpbmclMkNUaHJlYXRoZW5lZCUyMGZsb3JhJTJDU2hpbnk=" data-listing-file-modified-sort="1758223804627" data-listing-reading-time-sort="1" data-listing-word-count-sort="144">
-<div class="thumbnail">
-<p><a href="./software/famexplorer/index.html" class="no-external"></a></p><a href="./software/famexplorer/index.html" class="no-external">
-<p><img loading="lazy" src="./software/famexplorer/logo-famexplorer.png" class="thumbnail-image" style="height: 130px;"></p>
-</a><p><a href="./software/famexplorer/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./software/famexplorer/index.html" class="no-external">famexplorer</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./software/famexplorer/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UiUyMHBhY2thZ2U='); return false;">
-R package
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UGxhbnQlMjBDb25zZXJ2YXRpb24='); return false;">
-Plant Conservation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TW9uaXRvcmluZw=='); return false;">
-Monitoring
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('VGhyZWF0aGVuZWQlMjBmbG9yYQ=='); return false;">
-Threathened flora
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('U2hpbnk='); return false;">
-Shiny
-</div>
-</div>
-<div class="listing-description">
-<a href="./software/famexplorer/index.html" class="no-external">famexploreR: a workflow for monitoring threatened plant species</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./software/famexplorer/index.html" class="no-external"></a></p><a href="./software/famexplorer/index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="UiUyMHBhY2thZ2UlMkNQaW5lJTIwcGxhbnRhdGlvbiUyQ01lZGl0ZXJyYW5lYW4lMjBtb3VudGFpbiUyQ0FkYXB0aXZlJTIwTWFuYWdlbWVudCUyQ1NoaW55" data-listing-file-modified-sort="1758223812275" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
-<div class="thumbnail">
-<p><a href="./software/diveRpine/index.html" class="no-external"></a></p><a href="./software/diveRpine/index.html" class="no-external">
-<p><img loading="lazy" src="./software/diveRpine/logo-diverpine.png" class="thumbnail-image" style="height: 130px;"></p>
-</a><p><a href="./software/diveRpine/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./software/diveRpine/index.html" class="no-external">diveRpine</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./software/diveRpine/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UiUyMHBhY2thZ2U='); return false;">
-R package
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UGluZSUyMHBsYW50YXRpb24='); return false;">
-Pine plantation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWVkaXRlcnJhbmVhbiUyMG1vdW50YWlu'); return false;">
-Mediterranean mountain
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QWRhcHRpdmUlMjBNYW5hZ2VtZW50'); return false;">
-Adaptive Management
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('U2hpbnk='); return false;">
-Shiny
-</div>
-</div>
-<div class="listing-description">
-<a href="./software/diveRpine/index.html" class="no-external">diveRpine</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./software/diveRpine/index.html" class="no-external"></a></p><a href="./software/diveRpine/index.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="UiUyMHBhY2thZ2UlMkNEYXRhJTIwc3RhbmRhcmRpemF0aW9u" data-listing-file-modified-sort="1758267567847" data-listing-reading-time-sort="1" data-listing-word-count-sort="63">
-<div class="thumbnail">
-<p><a href="./software/datefixeR/index.html" class="no-external"></a></p><a href="./software/datefixeR/index.html" class="no-external">
-<p><img loading="lazy" src="./software/datefixeR/logo_datefixr.png" class="thumbnail-image" style="height: 130px;"></p>
-</a><p><a href="./software/datefixeR/index.html" class="no-external"></a></p>
-</div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./software/datefixeR/index.html" class="no-external">datefixeR</a>
-</h3>
-<div class="listing-subtitle">
-<a href="./software/datefixeR/index.html" class="no-external"></a>
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UiUyMHBhY2thZ2U='); return false;">
-R package
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMHN0YW5kYXJkaXphdGlvbg=='); return false;">
-Data standardization
-</div>
-</div>
-<div class="listing-description">
-<a href="./software/datefixeR/index.html" class="no-external">Standardize Dates in Different Formats or with Missing Data</a>
-</div>
-</div>
-<div class="metadata">
-<p><a href="./software/datefixeR/index.html" class="no-external"></a></p><a href="./software/datefixeR/index.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{san-segundo_molina2025,
+  author = {San-Segundo Molina, D. and Barbosa, A. M. and Pérez-Luque,
+    A. J. and Rodríguez-Sánchez, F.},
+  title = {mappestRisk: {An} {R} Package for Modelling and Mapping Risk
+    of Pest Development Based on Known Thermal Limit},
+  journal = {R package version 1.0.0},
+  date = {2025},
+  url = {https://ecologyr.github.io/mappestRisk/},
+  doi = {10.32614/CRAN.package.mappestRisk},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-san-segundo_molina2025" class="csl-entry quarto-appendix-citeas" role="listitem">
+San-Segundo Molina, D., A. M. Barbosa, A. J. Pérez-Luque, and F.
+Rodríguez-Sánchez. 2025. <span>“mappestRisk: An R Package for Modelling
+and Mapping Risk of Pest Development Based on Known Thermal
+Limit.”</span> <em>R Package Version 1.0.0</em>. <a href="https://doi.org/10.32614/CRAN.package.mappestRisk">https://doi.org/10.32614/CRAN.package.mappestRisk</a>.
+</div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
