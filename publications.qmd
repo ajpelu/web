@@ -6,8 +6,10 @@ page-layout: full
 
 
 ##### **2026**
-Mosig, C., Vajna-Jehle, J., Mahecha, M. D., Hartmann, H., ..., **Pérez-Luque, A.J.**; ... Kattenborn, T. deadtrees.earth — An open-access and interactive database for centimeter-scale aerial imagery to uncover global tree mortality dynamics. Remote Sensing of Environment, 332(115027), 115027. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.rse.2025.115027)
 
+**Pérez-Luque, A.J.**; Martin‐Benito, D.; Zamora, R.; Gea‐Izquierdo, G. (*Aceepted*). Optimal carbon partitioning drives sink potential dynamics in large-scale pine reforestation under climate change. Journal of Applied Ecology. 
+
+Mosig, C., Vajna-Jehle, J., Mahecha, M. D., Hartmann, H., ..., **Pérez-Luque, A.J.**; ... Kattenborn, T. deadtrees.earth — An open-access and interactive database for centimeter-scale aerial imagery to uncover global tree mortality dynamics. Remote Sensing of Environment, 332(115027), 115027. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.rse.2025.115027)
 
 ##### **2025**
 
