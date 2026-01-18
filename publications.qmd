@@ -1,12 +1,16 @@
 ---
 title: "Publications"
 page-layout: full
+execute:
+  freeze: false
+  cache: false
+
 ---
 ## **Articles**
 
 
 ##### **2026**
-**Pérez-Luque, A.J.**; Martin‐Benito, D.; Zamora, R.; Gea‐Izquierdo, G. (2026). Optimal carbon partitioning drives sink potential dynamics in large-scale pine reforestation under climate change. Journal of Applied Ecology, 63(1): e70244  [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/1365-2664.70244)
+**Pérez-Luque, A.J.**; Martin‐Benito, D.; Zamora, R.; Gea‐Izquierdo, G. (2026). Optimal carbon partitioning drives sink potential dynamics in large-scale pine reforestation under climate change. Journal of Applied Ecology, 63(1): e70244  [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/1365-2664.70244) [{{< fa brands github size=lg >}}](https://ajpelu.github.io/c_allocation_pine/)
 
 Gea‐Izquierdo, G.; Fernández De Simón, M. B.; Sánchez‐Gómez, D.; Martin‐Benito, D.; **Pérez-Luque, A.J.**; Muiño, I., & Aranda, I. High metabolic sensitivity to hot drought in two declining pine species with constrained physiology. Functional Ecology, 40 (1): 239-255 doi: 10.1111/1365-2435.70217 [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/1365-2435.70217)
 
@@ -189,6 +193,72 @@ Moreno-Llorca, R.A., Bonet-García, F.J., **Pérez-Luque, A.J.** *Evaluación de
 ## **PhD Thesis** 
 **Pérez-Luque, A.J.** (2022). Análisis de la dinámica de los robledales (*Quercus pyrenaica* Willd.) frente al cambio global en el límite sur de su distribución (Sierra Nevada). Universidad de Granada. [{{< fa file-pdf size=lg >}}](https://digibug.ugr.es/bitstream/handle/10481/73618/69212%281%29.pdf?sequence=4&isAllowed=y) [{{< fa link size=lg >}}](http://hdl.handle.net/10481/73618). ISBN: 9788411172592
 
-## **Others** 
+## **Conferences**
 
+```{r}
+#| echo: false
+#| results: asis
+#| cache: false
+#| warning: false
+#| message: false
+
+
+library(tidyverse)
+library(glue)
+
+raw <- readxl::read_excel("/Users/ajpelu/Library/CloudStorage/Dropbox-Personal/_cv/ridiculum/data/cv_items/cv_04_conferences.xlsx")
+
+  
+##### Formatear nombre de autores 
+format_authors <- function(x) {
+  authors <- trimws(strsplit(x, ";")[[1]])
+  
+  formatted <- sapply(authors, function(a) {
+    parts <- strsplit(a, ",")[[1]]
+    last <- trimws(parts[1])
+    first <- trimws(parts[2])
+    
+    initials <- paste0(substr(strsplit(first, "\\s+")[[1]], 1, 1), ".", collapse = " ")
+    paste(last, initials, sep = ", ")
+  })
+  
+  paste(formatted, collapse = "; ")
+}
+
+
+raw$author_simple <- sapply(raw$author, format_authors)
+
+
+
+
+
+md <- raw |> 
+  arrange(desc(year), desc(fecha_start)) |>
+  group_by(year) |> 
+  summarise(
+    text = paste0(
+      "#### ", first(year), "\n\n",
+      paste(
+        glue::glue_data(
+          dplyr::pick(author_simple, title, congreso, publisher, fecha_start, fecha_end, lugar),
+          '{author_simple} {title}. In: *{congreso}*. {publisher}. {paste0(format(fecha_start, format="%d/%m/%Y"), " - ", format(fecha_end, format="%d/%m/%Y"))}. {lugar}.'
+        ), 
+        collapse = "\n\n"
+      )
+    ),
+    .groups = "drop") |> 
+  pull(text) |> 
+  paste(collapse = "\n\n")
+
+md <- gsub("Pérez-Luque, A\\.J\\.", "**Pérez-Luque, A.J.**", md)
+md <- gsub("Pérez-Luque, A\\. J\\.", "**Pérez-Luque, A. J.**", md)
+
+md <- paste0(
+  "::: {.small}\n\n",
+  md,
+  "\n\n:::\n"
+)
+
+cat(md)
+```
 
