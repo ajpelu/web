@@ -211,25 +211,25 @@ raw <- readxl::read_excel("/Users/ajpelu/Library/CloudStorage/Dropbox-Personal/_
 
   
 ##### Formatear nombre de autores 
-format_authors <- function(x) {
-  authors <- trimws(strsplit(x, ";")[[1]])
-  
-  formatted <- sapply(authors, function(a) {
-    parts <- strsplit(a, ",")[[1]]
-    last <- trimws(parts[1])
-    first <- trimws(parts[2])
-    
-    initials <- paste0(substr(strsplit(first, "\\s+")[[1]], 1, 1), ".", collapse = " ")
-    paste(last, initials, sep = ", ")
-  })
-  
-  paste(formatted, collapse = "; ")
-}
-
-
-raw$author_simple <- sapply(raw$author, format_authors)
-
-
+# format_authors <- function(x) {
+#   authors <- trimws(strsplit(x, ";")[[1]])
+#   
+#   formatted <- sapply(authors, function(a) {
+#     parts <- strsplit(a, ",")[[1]]
+#     last <- trimws(parts[1])
+#     first <- trimws(parts[2])
+#     
+#     initials <- paste0(substr(strsplit(first, "\\s+")[[1]], 1, 1), ".", collapse = " ")
+#     paste(last, initials, sep = ", ")
+#   })
+#   
+#   paste(formatted, collapse = "; ")
+# }
+# 
+# 
+# raw$author_simple <- sapply(raw$author, format_authors)
+# 
+# 
 
 
 
@@ -241,8 +241,8 @@ md <- raw |>
       "#### ", first(year), "\n\n",
       paste(
         glue::glue_data(
-          dplyr::pick(author_simple, title, congreso, publisher, fecha_start, fecha_end, lugar),
-          '{author_simple} {title}. In: *{congreso}*. {publisher}. {paste0(format(fecha_start, format="%d/%m/%Y"), " - ", format(fecha_end, format="%d/%m/%Y"))}. {lugar}.'
+          dplyr::pick(author, title, congreso, publisher, fecha_start, fecha_end, lugar),
+          '{author} {title}. In: *{congreso}*. {publisher}. {paste0(format(fecha_start, format="%d/%m/%Y"), " - ", format(fecha_end, format="%d/%m/%Y"))}. {lugar}.'
         ), 
         collapse = "\n\n"
       )
