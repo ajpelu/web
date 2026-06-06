@@ -193,6 +193,7 @@ Moreno-Llorca, R.A., Bonet-García, F.J., **Pérez-Luque, A.J.** *Evaluación de
 ## **PhD Thesis** 
 **Pérez-Luque, A.J.** (2022). Análisis de la dinámica de los robledales (*Quercus pyrenaica* Willd.) frente al cambio global en el límite sur de su distribución (Sierra Nevada). Universidad de Granada. [{{< fa file-pdf size=lg >}}](https://digibug.ugr.es/bitstream/handle/10481/73618/69212%281%29.pdf?sequence=4&isAllowed=y) [{{< fa link size=lg >}}](http://hdl.handle.net/10481/73618). ISBN: 9788411172592
 
+
 ## **Conferences**
 
 ```{r}
