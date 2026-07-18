@@ -11,13 +11,13 @@ execute:
 
 ##### **2026**
 
-Ramos-Font, M.E.; Aguirrebengoa, M.; **Pérez-Luque, A.J.**; Casado-Barbero, R.; Tognetti-Barbieri, M.; Montoya-Román, C.; Martín-García, A.I.; Robles, A.B. Burning season, grazing intensity and scrub type determine Mediterranean shrubland responses to pyric herbivory. Fire Ecology [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1186/s42408-026-00547-8)
-
-San Segundo Molina, D., Barbosa, A. M., **Pérez-Luque, A.J.**; & Rodríguez Sánchez, F. *mappestRisk*: An R package for modelling and mapping risk of crop pest development based on their thermal biology. *PeerJ*, 14, e21428. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7717/peerj.21428)
-
 **Pérez-Luque, A.J.**; Martin‐Benito, D.; Zamora, R.; Gea‐Izquierdo, G. Optimal carbon partitioning drives sink potential dynamics in large-scale pine reforestation under climate change. *Journal of Applied Ecology*, 63 (1): e70244  [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/1365-2664.70244) [{{< fa brands github size=lg >}}](https://ajpelu.github.io/c_allocation_pine/)
 
 Gea‐Izquierdo, G.; Fernández De Simón, M. B.; Sánchez‐Gómez, D.; Martin‐Benito, D.; **Pérez-Luque, A.J.**; Muiño, I., & Aranda, I. High metabolic sensitivity to hot drought in two declining pine species with constrained physiology. *Functional Ecology*, 40 (1): 239-255. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1111/1365-2435.70217)
+
+Ramos-Font, M.E.; Aguirrebengoa, M.; **Pérez-Luque, A.J.**; Casado-Barbero, R.; Tognetti-Barbieri, M.; Montoya-Román, C.; Martín-García, A.I.; Robles, A.B. Burning season, grazing intensity and scrub type determine Mediterranean shrubland responses to pyric herbivory. Fire Ecology [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1186/s42408-026-00547-8)
+
+San Segundo Molina, D., Barbosa, A. M., **Pérez-Luque, A.J.**; & Rodríguez Sánchez, F. *mappestRisk*: An R package for modelling and mapping risk of crop pest development based on their thermal biology. *PeerJ*, 14, e21428. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.7717/peerj.21428)
 
 Mosig, C., Vajna-Jehle, J., Mahecha, M. D., Hartmann, H., ..., **Pérez-Luque, A.J.**; ... Kattenborn, T. deadtrees.earth — An open-access and interactive database for centimeter-scale aerial imagery to uncover global tree mortality dynamics. *Remote Sensing of Environment*, 332: 115027. [{{< ai doi size=lg color="#416ba3" >}}](https://doi.org/10.1016/j.rse.2025.115027)
 
